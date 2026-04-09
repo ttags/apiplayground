@@ -1,0 +1,39 @@
+{
+  "match": {
+    "title": "Value of Home Team vs Away Team Value - DRY",
+    "date": "( Take value from start time )",
+    "time": "( Take value from time part of Start Time )",
+    "stadium": "Chinnaswami",
+    "league": "Indian Premier Leage",
+    "round": "Group Stage",
+    "broadcaster": "YoNoTVs",
+    "banner_image": "Take the hime Flag URL image and Away Flag URL image and show these two as CSS in the item too.",
+    "lineup_published": true
+  },
+  "team1": {
+    "name": "Value of Home Team",
+    "lineup": ""
+  },
+  "team2": {
+    "name": "Value of Away Team",
+    "lineup": ""
+  },
+  "info_sources": [
+    {
+      "name": "Link 1",
+      "url": "Add here value of just m3u8 link, that will update the manifest and make an id automatically.  so the url link stays clean."
+    },
+    {
+      "name": "Link 2",
+      "url": "#"
+    },
+    {
+      "name": "Link 3",
+      "url": "#"
+    },
+    {
+      "name": "Link 4",
+      "url": "#"
+    }
+  ]
+}
