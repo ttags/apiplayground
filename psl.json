@@ -4,7 +4,7 @@
     "date": "",
     "time": "",
     "stadium": "---",
-    "league": "Pakistan Super lEage",
+    "league": "",
     "round": "--",
     "broadcaster": "YoNoTV",
     "banner_image": "",
@@ -18,10 +18,5 @@
     "name": "",
     "lineup": ""
   },
-  "info_sources": [
-    {
-      "name": "Link 1",
-      "url": "#"
-    }
-  ]
+  "info_sources": []
 }
