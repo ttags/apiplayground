@@ -1,1 +1,14 @@
-{}
+{
+  "ipl1": {
+    "type": "direct",
+    "url": "https://wikisport.club/strm/t11.php"
+  },
+  "ipl2": {
+    "type": "direct",
+    "url": "https://yosintv100.pages.dev/shaka?id=pc1"
+  },
+  "ipl3": {
+    "type": "direct",
+    "url": "https://wapgoo.pages.dev/?id=Star Sports 1 HD"
+  }
+}
