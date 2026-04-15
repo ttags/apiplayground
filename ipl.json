@@ -1,21 +1,21 @@
 {
   "match": {
-    "title": "RCB vs LSG",
-    "date": "15 APR",
+    "title": "MI vs PBKS",
+    "date": "16 APR",
     "time": "07:45 PM NST",
     "stadium": "M chinnaswamy stadium, Bengaluru",
     "league": "Indian Premiere Leage",
     "round": "Group Stage",
     "broadcaster": "YoNoTV",
-    "banner_image": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/xUS54-BA0dFZPMtbCiHkzQ_96x96.png|https://ssl.gstatic.com/onebox/media/sports/logos/optimized/OqrL0ztLy13FBpvuF6GCBQ_96x96.png",
+    "banner_image": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/HmiWb77BmJDs6sHvn77v_Q_96x96.png|https://ssl.gstatic.com/onebox/media/sports/logos/optimized/XUAb4iA3XozYbH_cXQCryQ_96x96.png",
     "lineup_published": false
   },
   "team1": {
-    "name": "RCB",
+    "name": "MI",
     "lineup": ""
   },
   "team2": {
-    "name": "LSG",
+    "name": "PBKS",
     "lineup": ""
   },
   "info_sources": [
