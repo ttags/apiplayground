@@ -1,21 +1,21 @@
 {
   "match": {
-    "title": "Gujarat Titans GT vs Kolkata Knight Riders KKR",
-    "date": "17 APR",
+    "title": "MI vs KKR",
+    "date": "20 MAY",
     "time": "07:45 PM NST",
-    "stadium": "M chinnaswamy stadium, Bengaluru",
+    "stadium": "MA Chidambaram Stadium, Chennai",
     "league": "Indian Premiere Leage",
     "round": "Group Stage",
     "broadcaster": "YoNoTV",
-    "banner_image": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/aTE8G7q-OcAobWvDd6sizQ_96x96.png|https://ssl.gstatic.com/onebox/media/sports/logos/optimized/bV4wF2dFs6IPc2BMtjgGZw_96x96.png",
+    "banner_image": "https://static.vecteezy.com/system/resources/previews/075/244/951/non_2x/mumbai-indians-logo-mi-logo-icon-on-transparent-background-free-png.png|https://ssl.gstatic.com/onebox/media/sports/logos/optimized/bV4wF2dFs6IPc2BMtjgGZw_96x96.png",
     "lineup_published": false
   },
   "team1": {
-    "name": "Gujarat Titans GT",
+    "name": "MI",
     "lineup": ""
   },
   "team2": {
-    "name": "Kolkata Knight Riders KKR",
+    "name": "KKR",
     "lineup": ""
   },
   "info_sources": [
