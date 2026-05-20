@@ -1,0 +1,22 @@
+{
+  "match": {
+    "title": "Team 1 ( Coming Soon ) vs Team 2 ( Coming Soon )",
+    "date": "11 JUN",
+    "time": "12:00 AM NST",
+    "stadium": "---",
+    "league": "Fifa World CUP 2026",
+    "round": "--",
+    "broadcaster": "YoNoTV",
+    "banner_image": "",
+    "lineup_published": false
+  },
+  "team1": {
+    "name": "Team 1 ( Coming Soon )",
+    "lineup": ""
+  },
+  "team2": {
+    "name": "Team 2 ( Coming Soon )",
+    "lineup": ""
+  },
+  "info_sources": []
+}
