@@ -1,0 +1,51 @@
+{
+  "match": {
+    "title": "Nepal vs USA",
+    "date": "22 MAY",
+    "time": "09:30 AM NST",
+    "stadium": "MA Chidambaram Stadium, Chennai",
+    "league": "Nepal Trination Series in UAE",
+    "round": "Group Stage",
+    "broadcaster": "YoNoTV",
+    "banner_image": "https://dns-tv.pages.dev/logo/can.png|https://aimages.willow.tv/teamLogos/usa.png",
+    "lineup_published": true
+  },
+  "team1": {
+    "name": "Nepal",
+    "lineup": "Aarif Sheikh, Aasif Sheikh (wk), Dipendra Singh Airee, Gulshan Jha, Ishan Pandey, Kushal Bhurtel, Lalit Rajbanshi, Nandan Yadav, Rohit Paudel (c), Sandeep Lamichhane, Sompal Kami"
+  },
+  "team2": {
+    "name": "USA",
+    "lineup": "Bradley James Currie, Brandon McMullen, Finlay McCreath, George Munsey, Mark Watt, Matthew Henry Cross (wk), Michael english, Michael Alexander Leask, Oliver Davidson, Oliver James Hairs, Richard Berrington (c)"
+  },
+  "info_sources": [
+    {
+      "name": "Link 1",
+      "url": "https://ytvs-frame.pages.dev/frame?ref=https://ytvs-render.pages.dev/shaka?ref=nepal1"
+    },
+    {
+      "name": "Link 2",
+      "url": "https://ytvs-frame.pages.dev/frame?ref=nepal2"
+    },
+    {
+      "name": "Link 3",
+      "url": "https://ytvs-frame.pages.dev/frame?ref=nepal3"
+    },
+    {
+      "name": "Link 4",
+      "url": "https://ytvs-frame.pages.dev/frame?ref=nepal4"
+    },
+    {
+      "name": "Link 5",
+      "url": "https://ytvs-frame.pages.dev/frame?ref=nepal5"
+    },
+    {
+      "name": "Link 6",
+      "url": "https://ytvs-frame.pages.dev/frame?ref=nepal6"
+    },
+    {
+      "name": "Link 7",
+      "url": "https://ytvs-frame.pages.dev/frame?ref=nepal7"
+    }
+  ]
+}
