@@ -1,21 +1,21 @@
 {
   "match": {
-    "title": "Team 1 ( Coming Soon ) vs Team 2 ( Coming Soon )",
+    "title": "Mexico vs South Africa",
     "date": "11 JUN",
-    "time": "12:00 AM NST",
+    "time": "12:45 AM NST",
     "stadium": "---",
     "league": "Fifa World CUP 2026",
     "round": "--",
     "broadcaster": "YoNoTV",
-    "banner_image": "",
+    "banner_image": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/yJF9xqmUGenD8108FJbg9A_96x96.png|https://ssl.gstatic.com/onebox/media/sports/logos/optimized/EGwD4_SUlmwZWbnHhcmTPA_96x96.png",
     "lineup_published": false
   },
   "team1": {
-    "name": "Team 1 ( Coming Soon )",
+    "name": "Mexico",
     "lineup": ""
   },
   "team2": {
-    "name": "Team 2 ( Coming Soon )",
+    "name": "South Africa",
     "lineup": ""
   },
   "info_sources": []
