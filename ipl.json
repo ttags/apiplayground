@@ -1,21 +1,21 @@
 {
   "match": {
-    "title": "GT vs CSK",
-    "date": "21 MAY",
+    "title": "RCB vs SRH",
+    "date": "22 MAY",
     "time": "07:45 PM NST",
     "stadium": "MA Chidambaram Stadium, Chennai",
     "league": "Indian Premiere Leage",
     "round": "Group Stage",
-    "broadcaster": "YoNoTV",
-    "banner_image": "https://static.vecteezy.com/system/resources/previews/075/244/947/non_2x/gujarat-titans-logo-gt-logo-icon-on-transparent-background-free-png.png|https://static.vecteezy.com/system/resources/previews/075/244/942/non_2x/chennai-super-kings-logo-csk-logo-icon-on-transparent-background-free-png.png",
+    "broadcaster": "Yono Tv Sports Official",
+    "banner_image": "https://static.vecteezy.com/system/resources/previews/075/244/946/non_2x/royal-challengers-bengaluru-logo-rcb-logo-icon-on-transparent-background-free-png.png|https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiRxci1Vwd8uEC4IB4j4M-FVCat_wcNOW9-A&s",
     "lineup_published": false
   },
   "team1": {
-    "name": "GT",
+    "name": "RCB",
     "lineup": ""
   },
   "team2": {
-    "name": "CSK",
+    "name": "SRH",
     "lineup": ""
   },
   "info_sources": [
