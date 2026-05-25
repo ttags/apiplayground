@@ -26,8 +26,10 @@
     "url": "https://www.foulembeds.live/embed/fox-sports-501"
   },
   "ipl7": {
-    "type": "direct",
-    "url": "https://wapgoo.pages.dev/?id=Star Sports 1 HD"
+    "type": "dash",
+    "url": "https://dck1-fs-live.dtcdn.dazn.com/out/v1/814bffb9b389f652/d65feac5647949e6b45b2674d4715398/index.mpd",
+    "keyId": "01c9bbf8137e58378a5ead514998a7b4",
+    "key": "c"
   },
   "nepal1": {
     "type": "dash",
@@ -56,7 +58,9 @@
     "url": "https://www.foulembeds.live/embed/fox-sports-501"
   },
   "nepal7": {
-    "type": "direct",
-    "url": "https://wapgoo.pages.dev/?id=Star Sports 1 HD"
+    "type": "dash",
+    "url": "https://dck1-fs-live.dtcdn.dazn.com/out/v1/814bffb9b389f652/d65feac5647949e6b45b2674d4715398/index.mpd",
+    "keyId": "01c9bbf8137e58378a5ead514998a7b4",
+    "key": "fb01e61809e80e5e93a889cd31daab22"
   }
 }
