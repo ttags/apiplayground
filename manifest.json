@@ -29,7 +29,39 @@
     "type": "dash",
     "url": "https://dck1-fs-live.dtcdn.dazn.com/out/v1/814bffb9b389f652/d65feac5647949e6b45b2674d4715398/index.mpd",
     "keyId": "01c9bbf8137e58378a5ead514998a7b4",
-    "key": "c"
+    "key": "fb01e61809e80e5e93a889cd31daab22"
+  },
+  "cric1": {
+    "type": "dash",
+    "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
+    "keyId": "290e09c837da78d5cd961978d390515c",
+    "key": "b748836c71e6a4ca68ef5b5652db6247"
+  },
+  "cric2": {
+    "type": "direct",
+    "url": "https://streamfree.app/embed/cricket/cricketsky?quality=1080p"
+  },
+  "cric3": {
+    "type": "dash",
+    "url": "https://dck1-fs-live.dtcdn.dazn.com/out/v1/814bffb9b389f652/d65feac5647949e6b45b2674d4715398/index.mpd",
+    "keyId": "01c9bbf8137e58378a5ead514998a7b4",
+    "key": "fb01e61809e80e5e93a889cd31daab22"
+  },
+  "cric4": {
+    "type": "direct",
+    "url": "https://go.webcric.com/hindi.htm"
+  },
+  "cric5": {
+    "type": "direct",
+    "url": "https://go.webcric.com/frame2.htm"
+  },
+  "cric6": {
+    "type": "direct",
+    "url": "https://www.foulembeds.live/embed/fox-sports-501"
+  },
+  "cric7": {
+    "type": "direct",
+    "url": "https://player3.spirituallifewell.com/embed/639305398530cf2344470acffe884463?rel=0&modestbranding=1"
   },
   "nepal1": {
     "type": "dash",
