@@ -1,13 +1,13 @@
 {
   "match": {
-    "title": "Nepal vs USA",
-    "date": "22 MAY",
-    "time": "09:30 AM NST",
-    "stadium": "MA Chidambaram Stadium, Chennai",
-    "league": "Nepal Trination Series in UAE",
+    "title": "Nepal vs China",
+    "date": "31 MAY",
+    "time": "07:15 AM NST",
+    "stadium": "Singapore National Cricket Ground",
+    "league": "Mens T20 Asian Games Qualifier",
     "round": "Group Stage",
-    "broadcaster": "Yono Tv Sports Official",
-    "banner_image": "https://dns-tv.pages.dev/logo/can.png|https://aimages.willow.tv/teamLogos/usa.png",
+    "broadcaster": "Yono TV Sports Official",
+    "banner_image": "https://dns-tv.pages.dev/logo/can.png|https://static.vecteezy.com/system/resources/thumbnails/051/966/111/small/china-country-round-flag-free-png.png",
     "lineup_published": true
   },
   "team1": {
@@ -15,8 +15,8 @@
     "lineup": "Aarif Sheikh, Aasif Sheikh (wk), Dipendra Singh Airee, Gulshan Jha, Ishan Pandey, Kushal Bhurtel, Lalit Rajbanshi, Nandan Yadav, Rohit Paudel (c), Sandeep Lamichhane, Sompal Kami"
   },
   "team2": {
-    "name": "USA",
-    "lineup": "Bradley James Currie, Brandon McMullen, Finlay McCreath, George Munsey, Mark Watt, Matthew Henry Cross (wk), Michael english, Michael Alexander Leask, Oliver Davidson, Oliver James Hairs, Richard Berrington (c)"
+    "name": "China",
+    "lineup": "TBD"
   },
   "info_sources": [
     {
@@ -45,7 +45,7 @@
     },
     {
       "name": "Link 7",
-      "url": "https://ytvs-frame.pages.dev/frame?ref=nepal7"
+      "url": "https://ytvs-frame.pages.dev/frame?ref=https://ytvs-render.pages.dev/shaka?ref=nepal7"
     }
   ]
 }
