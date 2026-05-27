@@ -1,21 +1,21 @@
 {
   "match": {
-    "title": "RCB vs GT",
-    "date": "26 MAY",
+    "title": "SRH vs RR",
+    "date": "27 MAY",
     "time": "07:45 PM NST",
     "stadium": "Himachal Pradesh Cricket Association Stadium, Dharamshala",
     "league": "Indian Premiere League",
     "round": "Play Off",
     "broadcaster": "Yono Tv Sports Official",
-    "banner_image": "https://static.vecteezy.com/system/resources/previews/075/244/946/non_2x/royal-challengers-bengaluru-logo-rcb-logo-icon-on-transparent-background-free-png.png|https://static.vecteezy.com/system/resources/previews/075/244/947/non_2x/gujarat-titans-logo-gt-logo-icon-on-transparent-background-free-png.png",
+    "banner_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiRxci1Vwd8uEC4IB4j4M-FVCat_wcNOW9-A&s|https://static.vecteezy.com/system/resources/previews/075/244/952/non_2x/rajasthan-royals-logo-rr-logo-icon-on-transparent-background-free-png.png",
     "lineup_published": true
   },
   "team1": {
-    "name": "RCB",
+    "name": "SRH",
     "lineup": "Rajat Patidar (c),Tim David,Virat Kohli,Devdutt Padikkal,Philip Salt,Jitesh Sharma,Jacob Bethell,Krunal Pandya,Romario Shepherd,Josh Hazlewood,Bhuvneshwar Kumar,Suyash Sharma,Venkatesh Iyer,Jacob Duffy,Mangesh Yadav,Jordan Cox,Vihaan Malhotra,Richard Gleeson,Rasikh Salam Dar,Abhinandan Singh,Swapnil Singh,Vicky Ostwal,Satvik Deswal,Kanishk Chouhan"
   },
   "team2": {
-    "name": "GT",
+    "name": "RR",
     "lineup": "Shubman Gill (c),Jos Buttler,Kumar Kushagra,Glenn Phillips,Rashid Khan,Nishant Sindhu,Washington Sundar,Gurnoor Brar,Arshad Khan,Mohammed Siraj,Prasidh Krishna,Kagiso Rabada,Ravisrinivasan Sai Kishore,Jayant Yadav,Ishant Sharma,Jason Holder,Luke Wood,Sai Sudharsan,Connor Esterhuizen,Ashok Sharma,Shahrukh Khan,Anuj Rawat,Kulwant Khejroliya,Rahul Tewatia,Manav Suthar"
   },
   "info_sources": [
