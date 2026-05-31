@@ -1,7 +1,7 @@
 {
   "match": {
-    "title": "GT vs RR",
-    "date": "29 MAY",
+    "title": "RCB vs GT",
+    "date": "31 MAY",
     "time": "07:45 PM NST",
     "stadium": "Maharaja Yadavindra Singh PCA Stadium",
     "league": "Indian Premiere League",
@@ -11,12 +11,12 @@
     "lineup_published": true
   },
   "team1": {
-    "name": "GT",
+    "name": "RCB",
     "lineup": "Shubman Gill (c),Jos Buttler,Kumar Kushagra,Glenn Phillips,Rashid Khan,Nishant Sindhu,Washington Sundar,Gurnoor Brar,Arshad Khan,Mohammed Siraj,Prasidh Krishna,Kagiso Rabada,Ravisrinivasan Sai Kishore,Jayant Yadav,Ishant Sharma,Jason Holder,Luke Wood,Sai Sudharsan,Connor Esterhuizen,Ashok Sharma,Shahrukh Khan,Anuj Rawat,Kulwant Khejroliya,Rahul Tewatia,Manav Suthar"
   },
   "team2": {
-    "name": "RR",
-    "lineup": "Ravindra Jadeja\nLeft-Handed Batsman • Left-arm Off Spin Bowler\n\nSandeep Sharma\nRight-arm Medium Bowler\n\nAdam Milne\nRight-arm Fast Bowler\n\nDonovan Ferreira\n(Wk)\nRight-Handed Batsman\n\nDasun Shanaka\nRight-Handed Batsman • Right-arm Medium Bowler\n\nJofra Archer\nRight-arm Fast Bowler\n\nShimron Hetmyer\nLeft-Handed Batsman\n\nTushar Deshpande\nRight-arm Medium Bowler\n\nNandre Burger\nLeft-arm Fast Medium Bowler\n\nRiyan Parag\n(C)\nRight-Handed Batsman • Right-arm Off Spin Bowler\n\nYashasvi Jaiswal\nLeft-Handed Batsman\n\nKuldeep Sen\nRight-arm Fast Bowler\n\nRavi Bishnoi\nRight-arm Leg Spin Bowler\n\nDhruv Jurel\n(Wk)\nRight-Handed Batsman\n\nSushant Mishra\nLeft-arm Medium Fast Bowler\n\nYudhvir Singh\nRight-Handed Batsman • Right-arm Medium Fast Bowler\n\nShubham Dubey\nLeft-Handed Batsman\n\nVignesh Puthur\nLeft-arm Leg Spin Bowler\n\nEmanjot Singh Chahal\nRight-Handed Batsman • Left-arm Off Spin Bowler\n\nAman Rao\nRight-Handed Batsman\n\nKwena Maphaka\nLeft-arm Fast Bowler\n\nYash Punja\nRight-Handed Batsman • Right-arm Leg Spin Bowler\n\nLhuan-dre Pretorius\n(Wk)\nLeft-Handed Batsman\n\nVaibhav Sooryavanshi\nLeft-Handed Batsman\n\nRavi Singh\n(Wk)\nLeft-Handed Batsman\n\nBrijesh Sharma\nRight-Handed Batsman • Right-arm Medium Bowler"
+    "name": "GT",
+    "lineup": "Ravindra Jadeja\nLeft-Handed Batsman â¢ Left-arm Off Spin Bowler\n\nSandeep Sharma\nRight-arm Medium Bowler\n\nAdam Milne\nRight-arm Fast Bowler\n\nDonovan Ferreira\n(Wk)\nRight-Handed Batsman\n\nDasun Shanaka\nRight-Handed Batsman â¢ Right-arm Medium Bowler\n\nJofra Archer\nRight-arm Fast Bowler\n\nShimron Hetmyer\nLeft-Handed Batsman\n\nTushar Deshpande\nRight-arm Medium Bowler\n\nNandre Burger\nLeft-arm Fast Medium Bowler\n\nRiyan Parag\n(C)\nRight-Handed Batsman â¢ Right-arm Off Spin Bowler\n\nYashasvi Jaiswal\nLeft-Handed Batsman\n\nKuldeep Sen\nRight-arm Fast Bowler\n\nRavi Bishnoi\nRight-arm Leg Spin Bowler\n\nDhruv Jurel\n(Wk)\nRight-Handed Batsman\n\nSushant Mishra\nLeft-arm Medium Fast Bowler\n\nYudhvir Singh\nRight-Handed Batsman â¢ Right-arm Medium Fast Bowler\n\nShubham Dubey\nLeft-Handed Batsman\n\nVignesh Puthur\nLeft-arm Leg Spin Bowler\n\nEmanjot Singh Chahal\nRight-Handed Batsman â¢ Left-arm Off Spin Bowler\n\nAman Rao\nRight-Handed Batsman\n\nKwena Maphaka\nLeft-arm Fast Bowler\n\nYash Punja\nRight-Handed Batsman â¢ Right-arm Leg Spin Bowler\n\nLhuan-dre Pretorius\n(Wk)\nLeft-Handed Batsman\n\nVaibhav Sooryavanshi\nLeft-Handed Batsman\n\nRavi Singh\n(Wk)\nLeft-Handed Batsman\n\nBrijesh Sharma\nRight-Handed Batsman â¢ Right-arm Medium Bowler"
   },
   "info_sources": [
     {
