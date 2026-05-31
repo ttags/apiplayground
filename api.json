@@ -2,12 +2,12 @@
   {
     "league": "Indian Premiere League",
     "match_link": "https://www.yonotvs.com/p/match-details.html?id=ipl",
-    "home_team": "GT",
+    "home_team": "RCB",
     "home_flag": "https://static.vecteezy.com/system/resources/previews/075/244/946/non_2x/royal-challengers-bengaluru-logo-rcb-logo-icon-on-transparent-background-free-png.png",
-    "away_team": "RR",
+    "away_team": "GT",
     "away_flag": "https://static.vecteezy.com/system/resources/previews/075/244/947/non_2x/gujarat-titans-logo-gt-logo-icon-on-transparent-background-free-png.png",
-    "start_time": "2026-05-29T19:45:00+05:45",
-    "end_time": "2026-05-29T23:45:00+05:45"
+    "start_time": "2026-05-31T19:45:00+05:45",
+    "end_time": "2026-05-31T23:45:00+05:45"
   },
   {
     "league": "Women's International Cricket",
