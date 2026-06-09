@@ -1,0 +1,47 @@
+{
+  "match": {
+    "title": "India vs Afghanistan",
+    "date": "13 JUN",
+    "time": "01:45 PM NST",
+    "stadium": "HPCA Stadium, Chelian",
+    "league": "ODI Series",
+    "round": "1st Round of ODI",
+    "broadcaster": "Yono Tv Sports Official",
+    "banner_image": "https://upload.wikimedia.org/wikipedia/commons/4/45/Board_of_Control_for_Cricket_in_India_Logo_%282024%29.svg|https://static.vecteezy.com/system/resources/previews/075/653/898/non_2x/afghanistan-cricket-board-acb-logo-icon-free-png.png",
+    "lineup_published": true,
+    "win_probability": {
+      "home": 50,
+      "away": 50
+    }
+  },
+  "team1": {
+    "name": "India",
+    "lineup": "Captain: Shubman Gill\nVice-Captain: Shreyas Iyer\nBatters: Rohit Sharma, Virat Kohli\nWicket-keepers: KL Rahul, Ishan Kishan\nAll-rounders: Hardik Pandya, Washington Sundar, Nitish Kumar Reddy, Prince Yadav\nBowlers: Kuldeep Yadav, Arshdeep Singh, Prasidh Krishna, Gurnoor Brar, Harsh Dube"
+  },
+  "team2": {
+    "name": "Afghanistan",
+    "lineup": "Captain: Hashmatullah Shahidi\nVice-Captain: Rahmat Shah \n\n    Wicketkeepers: Rahmanullah Gurbaz, Ikram Alikhil\n    Batters: Ibrahim Zadran, Sediqullah Atal, Darwish Rasooli\n    All-rounders: Mohammad Nabi, Azmatullah Omarzai, Nangyal Kharoti\n    Bowlers: Rashid Khan, A.M. Ghazanfar, Zia Ur Rahman Sharifi, Fareed Ahmad Malik, Bilal Sami"
+  },
+  "info_sources": [
+    {
+      "name": "Link 1",
+      "url": "https://ytvs-frame.pages.dev/frame?ref=https://ytvs-render.pages.dev/shaka?ref=india1"
+    },
+    {
+      "name": "Link 2",
+      "url": "https://ytvs-frame.pages.dev/frame?ref=india2"
+    },
+    {
+      "name": "Link 3",
+      "url": "https://ytvs-frame.pages.dev/frame?ref=https://ytvs-render.pages.dev/shaka?ref=india3"
+    },
+    {
+      "name": "Link 4",
+      "url": "https://ytvs-frame.pages.dev/frame?ref=india4"
+    },
+    {
+      "name": "Link 5",
+      "url": "https://ytvs-frame.pages.dev/frame?ref=india5"
+    }
+  ]
+}
