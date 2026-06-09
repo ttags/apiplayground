@@ -6,17 +6,21 @@
     "stadium": "Estadio Azteca",
     "league": "Fifa World CUP 2026",
     "round": "Knockout",
-    "broadcaster": "Yono Tv Sports Official",
+    "broadcaster": "ONO TV",
     "banner_image": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/yJF9xqmUGenD8108FJbg9A_96x96.png|https://ssl.gstatic.com/onebox/media/sports/logos/optimized/EGwD4_SUlmwZWbnHhcmTPA_96x96.png",
-    "lineup_published": true
+    "lineup_published": true,
+    "win_probability": {
+      "home": 50,
+      "away": 50
+    }
   },
   "team1": {
     "name": "Mexico",
-    "lineup": "To be decided"
+    "lineup": "Goalkeepers\n\n    Guillermo Ochoa (AEL Limassol)\n    Raúl Rangel (Chivas)\n    Carlos Acevedo (Santos Laguna) \n    www.olympics.com\n\nDefenders\n\n    Key defenders include César Montes (Lokomotiv Moscow), Johan Vásquez (Genoa), Jorge Sánchez (PAOK), Jesús Gallardo (Toluca), Israel Reyes (Club América), and Mateo Chávez (AZ Alkmaar). \n    www.olympics.com +1\n\nMidfielders\n\n    The squad features experienced and young talent, including Edson Álvarez, Luis Chávez, Orbelín Pineda, Álvaro Fidalgo, Luis Romo, Érik Lira, Obed Vargas, Brian Gutiérrez, and Gilberto Mor"
   },
   "team2": {
     "name": "South Africa",
-    "lineup": "TBD"
+    "lineup": "Goalkeepers: \nsupersport.com\n\n    Ronwen Williams (Mamelodi Sundowns)\n    Sipho Chaine (Orlando Pirates)\n    Ricardo Goss (Siwelele F.C.) \n    supersport.com +4\n\nDefenders: \nsupersport.com\n\n    Key players include Khuliso Mudau, Aubrey Modiba (Mamelodi Sundowns), Nkosinathi Sibisi (Orlando Pirates), Bradley Cross (Kaizer Chiefs), and international-based players like Olwethu Makhanya and Ime Okon. \n    supersport.com +1\n\nMidfielders: \nsupersport.com\n\n    Anchored by Teboho Mokoena, Themba Zwane (Mamelodi Sundowns), and Sphephelo Sithole (CD Tondela). \n    supersport.com +1"
   },
   "info_sources": [
     {
