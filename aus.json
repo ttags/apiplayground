@@ -1,0 +1,51 @@
+{
+  "match": {
+    "title": "Australia vs Bangladesh",
+    "date": "09 JUN",
+    "time": "10:30 PM NST",
+    "stadium": "Pallekele Intl Cricket Stadium",
+    "league": "Australia Bangladesh Cricket ODI",
+    "round": "Final",
+    "broadcaster": "Yono Tv Sports Official",
+    "banner_image": "https://www.edigitalagency.com.au/wp-content/uploads/Cricket-Australia-logo-png-medium-size.png|https://upload.wikimedia.org/wikipedia/en/thumb/5/5c/Bangladesh_Cricket_Board_Logo.svg/1280px-Bangladesh_Cricket_Board_Logo.svg.png",
+    "lineup_published": true,
+    "win_probability": {
+      "home": 50,
+      "away": 50
+    }
+  },
+  "team1": {
+    "name": "Australia",
+    "lineup": "Matt Short\n    Right-Handed Batsman • Right-arm Off Spin Bowler\n    \t\n    Josh Inglis\n    \t(C)\t(Wk)\n    Right-Handed Batsman\n    \t\n    Cooper Connolly\n    Left-Handed Batsman • Left-arm Off Spin Bowler\n    \t\n    Marnus Labuschagne\n    Right-Handed Batsman\n    \t\n    Alex Carey\n    Left-Handed Batsman\n    \t\n    Cameron Green\n    Right-Handed Batsman • Right-arm Fast Medium Bowler\n    \t\n    Matt Renshaw\n    Left-Handed Batsman\n    \t\n    Liam Scott\n    Right-Handed Batsman • Right-arm Fast Medium Bowler\n    \t\n    Xavier Bartlett\n    Right-arm Fast Medium Bowler\n    \t\n    Nathan Ellis\n    Right-arm Fast Medium Bowler\n    \t\n    Adam Zampa\n    Right-arm Leg Spin Bowler"
+  },
+  "team2": {
+    "name": "Bangladesh",
+    "lineup": "Mehidy Hasan Miraz\nLitton Das\nMosaddek Hossain\nMustafizur Rahman\nNahid Rana\nNajmul Hossain Shanto\nNurul Hasan\nRishad Hossain\nSaif Hassan\nShoriful Islam\nSoumya Sarkar\nTanvir Islam\nTanzid Hasan\nTaskin Ahmed\nTowhid Hridoy"
+  },
+  "info_sources": [
+    {
+      "name": "Link 1",
+      "url": "https://ytvs-frame.pages.dev/frame?ref=https://ytvs-render.pages.dev/shaka?ref=aus1"
+    },
+    {
+      "name": "Link 2",
+      "url": "https://ytvs-frame.pages.dev/frame?ref=https://ytvs-render.pages.dev/shaka?ref=aus2"
+    },
+    {
+      "name": "Link 3",
+      "url": "https://ytvs-frame.pages.dev/frame?ref=https://ytvs-render.pages.dev/shaka?ref=aus3"
+    },
+    {
+      "name": "Link 4",
+      "url": "https://ytvs-frame.pages.dev/frame?ref=aus4"
+    },
+    {
+      "name": "Link 5",
+      "url": "https://ytvs-frame.pages.dev/frame?ref=aus5"
+    },
+    {
+      "name": "Link 6",
+      "url": "https://ytvs-frame.pages.dev/frame?ref=aus6"
+    }
+  ]
+}
