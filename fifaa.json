@@ -1,7 +1,7 @@
 {
   "match": {
     "title": "South Korea vs Czechia",
-    "date": "11 JUN",
+    "date": "12 JUN",
     "time": "07:45 AM NST",
     "stadium": "Akron Stadium, New Mexico",
     "league": "Fifa World CUP 2026",
@@ -10,17 +10,38 @@
     "banner_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6czX31EiRYK8jtCPs6gaRqUBZq1nf5fCghw&s|https://ssl.gstatic.com/onebox/media/sports/logos/optimized/8AluO-WxpcHtC0KKHmFgvg_96x96.png",
     "lineup_published": true,
     "win_probability": {
-      "home": 44,
-      "away": 56
+      "home": 50,
+      "away": 50
     }
   },
   "team1": {
     "name": "South Korea",
-    "lineup": "TBD"
+    "lineup": "Confirmed line-ups will be posted before the match starts"
   },
   "team2": {
     "name": "Czechia",
-    "lineup": "TBD"
+    "lineup": "Confirmed line-ups will be posted before the match starts"
   },
-  "info_sources": []
+  "info_sources": [
+    {
+      "name": "Link 1",
+      "url": "https://ytvs-frame.pages.dev/frame?ref=fifaa1"
+    },
+    {
+      "name": "Link 2",
+      "url": "https://ytvs-frame.pages.dev/frame?ref=fifaa2"
+    },
+    {
+      "name": "Link 3",
+      "url": "https://ytvs-frame.pages.dev/frame?ref=fifaa3"
+    },
+    {
+      "name": "Link 4",
+      "url": "https://ytvs-frame.pages.dev/frame?ref=fifaa4"
+    },
+    {
+      "name": "Link 5",
+      "url": "https://ytvs-frame.pages.dev/frame?ref=fifaa5"
+    }
+  ]
 }
