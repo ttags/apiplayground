@@ -1,7 +1,7 @@
 {
   "match": {
     "title": "Mexico vs South Africa",
-    "date": "11 JUN",
+    "date": "12 JUN",
     "time": "12:45 AM NST",
     "stadium": "Estadio Azteca",
     "league": "Fifa World CUP 2026",
@@ -16,16 +16,32 @@
   },
   "team1": {
     "name": "Mexico",
-    "lineup": "Goalkeepers\n\n    Guillermo Ochoa (AEL Limassol)\n    Raúl Rangel (Chivas)\n    Carlos Acevedo (Santos Laguna) \n    www.olympics.com\n\nDefenders\n\n    Key defenders include César Montes (Lokomotiv Moscow), Johan Vásquez (Genoa), Jorge Sánchez (PAOK), Jesús Gallardo (Toluca), Israel Reyes (Club América), and Mateo Chávez (AZ Alkmaar). \n    www.olympics.com +1\n\nMidfielders\n\n    The squad features experienced and young talent, including Edson Álvarez, Luis Chávez, Orbelín Pineda, Álvaro Fidalgo, Luis Romo, Érik Lira, Obed Vargas, Brian Gutiérrez, and Gilberto Mor"
+    "lineup": "Goalkeepers\n\n    Guillermo Ochoa (AEL Limassol)\n    Raúl Rangel (Chivas)\n    Carlos Acevedo (Santos Laguna) \n   as per www.olympics.com\n\nDefenders\n\n    Key defenders include César Montes (Lokomotiv Moscow), Johan Vásquez (Genoa), Jorge Sánchez (PAOK), Jesús Gallardo (Toluca), Israel Reyes (Club América), and Mateo Chávez (AZ Alkmaar). \n   as per www.olympics.com\n\nMidfielders\n\n    The squad features experienced and young talent, including Edson Álvarez, Luis Chávez, Orbelín Pineda, Álvaro Fidalgo, Luis Romo, Érik Lira, Obed Vargas, Brian Gutiérrez, and Gilberto Mor"
   },
   "team2": {
     "name": "South Africa",
-    "lineup": "Goalkeepers: \nsupersport.com\n\n    Ronwen Williams (Mamelodi Sundowns)\n    Sipho Chaine (Orlando Pirates)\n    Ricardo Goss (Siwelele F.C.) \n    supersport.com +4\n\nDefenders: \nsupersport.com\n\n    Key players include Khuliso Mudau, Aubrey Modiba (Mamelodi Sundowns), Nkosinathi Sibisi (Orlando Pirates), Bradley Cross (Kaizer Chiefs), and international-based players like Olwethu Makhanya and Ime Okon. \n    supersport.com +1\n\nMidfielders: \nsupersport.com\n\n    Anchored by Teboho Mokoena, Themba Zwane (Mamelodi Sundowns), and Sphephelo Sithole (CD Tondela). \n    supersport.com +1"
+    "lineup": "Goalkeepers: \n\n    Ronwen Williams (Mamelodi Sundowns)\n    Sipho Chaine (Orlando Pirates)\n    Ricardo Goss (Siwelele F.C.) \n \n\nDefenders: \n    Key players include Khuliso Mudau, Aubrey Modiba (Mamelodi Sundowns), Nkosinathi Sibisi (Orlando Pirates), Bradley Cross (Kaizer Chiefs), and international-based players like Olwethu Makhanya and Ime Okon. \n\nMidfielders: \n\n    Anchored by Teboho Mokoena, Themba Zwane (Mamelodi Sundowns), and Sphephelo Sithole (CD Tondela)."
   },
   "info_sources": [
     {
       "name": "Link 1",
       "url": "https://ytvs-frame.pages.dev/frame?ref=fifa1"
+    },
+    {
+      "name": "Link 2",
+      "url": "https://ytvs-frame.pages.dev/frame?ref=fifa2"
+    },
+    {
+      "name": "Link 3",
+      "url": "https://ytvs-frame.pages.dev/frame?ref=fifa3"
+    },
+    {
+      "name": "Link 4",
+      "url": "https://ytvs-frame.pages.dev/frame?ref=fifa4"
+    },
+    {
+      "name": "Link 5",
+      "url": "https://ytvs-frame.pages.dev/frame?ref=fifa5"
     }
   ]
 }
