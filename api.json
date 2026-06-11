@@ -6,8 +6,8 @@
     "home_flag": "https://www.edigitalagency.com.au/wp-content/uploads/Cricket-Australia-logo-png-medium-size.png",
     "away_team": "Bangladesh",
     "away_flag": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5c/Bangladesh_Cricket_Board_Logo.svg/1280px-Bangladesh_Cricket_Board_Logo.svg.png",
-    "start_time": "2026-06-09T10:30:00+05:45",
-    "end_time": "2026-06-10T02:30:00+05:45"
+    "start_time": "2026-06-11T10:30:00+05:45",
+    "end_time": "2026-06-11T18:30:00+05:45"
   },
   {
     "league": "ODI Series",
@@ -20,14 +20,24 @@
     "end_time": "2026-06-13T23:45:00+05:45"
   },
   {
+    "league": "ICC Cricket World Cup Leage 2",
+    "match_link": "https://www.yonotvs.com/p/match-details.html?id=nepal",
+    "home_team": "Nepal",
+    "home_flag": "https://dns-tv.pages.dev/logo/can.png",
+    "away_team": "Namibia",
+    "away_flag": "https://s.ndtvimg.com/images/entities/300/nam-2130.png",
+    "start_time": "2026-07-21T14:45:00+05:45",
+    "end_time": "2026-07-21T22:45:00+05:45"
+  },
+  {
     "league": "Fifa World CUP 2026",
     "match_link": "https://www.yonotvs.com/p/match-details.html?id=fifa",
     "home_team": "Mexico",
     "home_flag": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/yJF9xqmUGenD8108FJbg9A_96x96.png",
     "away_team": "South Africa",
     "away_flag": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/EGwD4_SUlmwZWbnHhcmTPA_96x96.png",
-    "start_time": "2026-06-11T00:45:00+05:45",
-    "end_time": "2026-06-11T04:45:00+05:45"
+    "start_time": "2026-06-12T00:45:00+05:45",
+    "end_time": "2026-06-12T04:45:00+05:45"
   },
   {
     "league": "Fifa World CUP 2026",
@@ -36,7 +46,7 @@
     "home_flag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6czX31EiRYK8jtCPs6gaRqUBZq1nf5fCghw&s",
     "away_team": "Czechia",
     "away_flag": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/8AluO-WxpcHtC0KKHmFgvg_96x96.png",
-    "start_time": "2026-06-11T07:45:00+05:45",
-    "end_time": "2026-06-11T11:45:00+05:45"
+    "start_time": "2026-06-12T07:45:00+05:45",
+    "end_time": "2026-06-12T11:45:00+05:45"
   }
 ]
