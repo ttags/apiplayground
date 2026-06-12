@@ -104,10 +104,8 @@
     "url": "https://ww2.sporttsonline.click/channels/hd/hd2.php"
   },
   "fifa2": {
-    "type": "dash",
-    "url": "https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/ch299/default/index.mpd",
-    "keyId": "829799ed534d11fcadeb4b192467e050",
-    "key": "549ab7cd35a64bb6bb479ecead04d69d"
+    "type": "direct",
+    "url": "https://cr7world.pages.dev/mpd/worldcuptv"
   },
   "fifa3": {
     "type": "direct",
@@ -144,10 +142,8 @@
     "url": "https://ww2.sporttsonline.click/channels/hd/hd2.php"
   },
   "fifaa2": {
-    "type": "dash",
-    "url": "https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/ch299/default/index.mpd",
-    "keyId": "549ab7cd35a64bb6bb479ecead04d69d",
-    "key": "829799ed534d11fcadeb4b192467e050"
+    "type": "direct",
+    "url": "https://cr7world.pages.dev/mpd/worldcuptv"
   },
   "fifaa3": {
     "type": "direct",
@@ -184,10 +180,8 @@
     "url": "https://ww2.sporttsonline.click/channels/hd/hd2.php"
   },
   "fifab2": {
-    "type": "dash",
-    "url": "https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/ch299/default/index.mpd",
-    "keyId": "549ab7cd35a64bb6bb479ecead04d69d",
-    "key": "829799ed534d11fcadeb4b192467e050"
+    "type": "direct",
+    "url": "https://cr7world.pages.dev/mpd/worldcuptv"
   },
   "fifab3": {
     "type": "direct",
@@ -224,10 +218,8 @@
     "url": "https://ww2.sporttsonline.click/channels/hd/hd2.php"
   },
   "fifac2": {
-    "type": "dash",
-    "url": "https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/ch299/default/index.mpd",
-    "keyId": "549ab7cd35a64bb6bb479ecead04d69d",
-    "key": "829799ed534d11fcadeb4b192467e050"
+    "type": "direct",
+    "url": "https://cr7world.pages.dev/mpd/worldcuptv"
   },
   "fifac3": {
     "type": "direct",
