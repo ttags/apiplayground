@@ -1,26 +1,26 @@
 {
   "match": {
-    "title": "Mexico vs South Africa",
-    "date": "12 JUN",
+    "title": "Canada vs Bosnia and Herzegovina",
+    "date": "13 JUN",
     "time": "12:45 AM NST",
-    "stadium": "Estadio Azteca",
+    "stadium": "Toronto Stadium in Canada Toronto",
     "league": "Fifa World CUP 2026",
-    "round": "Knockout",
+    "round": "Group Stage - Group B",
     "broadcaster": "ONO TV",
-    "banner_image": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/yJF9xqmUGenD8108FJbg9A_96x96.png|https://ssl.gstatic.com/onebox/media/sports/logos/optimized/EGwD4_SUlmwZWbnHhcmTPA_96x96.png",
+    "banner_image": "https://static.vecteezy.com/system/resources/thumbnails/013/861/174/small/canada-circle-flag-png.png|https://upload.wikimedia.org/wikipedia/commons/f/f9/Bosnia_and_Herzegovina_Coats_of_Arms.png",
     "lineup_published": true,
     "win_probability": {
-      "home": 67,
-      "away": 33
+      "home": 66,
+      "away": 34
     }
   },
   "team1": {
-    "name": "Mexico",
-    "lineup": "Goalkeepers\n\n    Guillermo Ochoa (AEL Limassol)\n    Raúl Rangel (Chivas)\n    Carlos Acevedo (Santos Laguna) \n   as per www.olympics.com\n\nDefenders\n\n    Key defenders include César Montes (Lokomotiv Moscow), Johan Vásquez (Genoa), Jorge Sánchez (PAOK), Jesús Gallardo (Toluca), Israel Reyes (Club América), and Mateo Chávez (AZ Alkmaar). \n   as per www.olympics.com\n\nMidfielders\n\n    The squad features experienced and young talent, including Edson Álvarez, Luis Chávez, Orbelín Pineda, Álvaro Fidalgo, Luis Romo, Érik Lira, Obed Vargas, Brian Gutiérrez, and Gilberto Mor"
+    "name": "Canada",
+    "lineup": "Lineup will be published at the match time."
   },
   "team2": {
-    "name": "South Africa",
-    "lineup": "Goalkeepers: \n\n    Ronwen Williams (Mamelodi Sundowns)\n    Sipho Chaine (Orlando Pirates)\n    Ricardo Goss (Siwelele F.C.) \n \n\nDefenders: \n    Key players include Khuliso Mudau, Aubrey Modiba (Mamelodi Sundowns), Nkosinathi Sibisi (Orlando Pirates), Bradley Cross (Kaizer Chiefs), and international-based players like Olwethu Makhanya and Ime Okon. \n\nMidfielders: \n\n    Anchored by Teboho Mokoena, Themba Zwane (Mamelodi Sundowns), and Sphephelo Sithole (CD Tondela)."
+    "name": "Bosnia and Herzegovina",
+    "lineup": "Lineup will be published at the match time."
   },
   "info_sources": [
     {
@@ -29,7 +29,7 @@
     },
     {
       "name": "Link 2",
-      "url": "https://ytvs-frame.pages.dev/frame?ref=fifa2"
+      "url": "https://ytvs-frame.pages.dev/frame?ref=https://ytvs-render.pages.dev/shaka?ref=fifa2"
     },
     {
       "name": "Link 3",
@@ -37,11 +37,23 @@
     },
     {
       "name": "Link 4",
-      "url": "https://ytvs-frame.pages.dev/frame?ref=fifa4"
+      "url": "https://ytvs-frame.pages.dev/frame?ref=https://ytvs-render.pages.dev/shaka?ref=fifa4"
     },
     {
       "name": "Link 5",
-      "url": "https://ytvs-frame.pages.dev/frame?ref=fifa5"
+      "url": "https://ytvs-frame.pages.dev/frame?ref=https://ytvs-render.pages.dev/shaka?ref=fifa5"
+    },
+    {
+      "name": "Link 6",
+      "url": "https://ytvs-frame.pages.dev/frame?ref=https://ytvs-render.pages.dev/shaka?ref=fifa6"
+    },
+    {
+      "name": "Link 7",
+      "url": "https://ytvs-frame.pages.dev/frame?ref=fifa7"
+    },
+    {
+      "name": "Link 8",
+      "url": "https://ytvs-frame.pages.dev/frame?ref=fifa8"
     }
   ]
 }
