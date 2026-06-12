@@ -1,0 +1,59 @@
+{
+  "match": {
+    "title": "Brazil vs Morocco",
+    "date": "14 JUN",
+    "time": "06:45 AM NST",
+    "stadium": "Venue:Los Angeles Stadium, Inglewood",
+    "league": "Fifa World CUP 2026 - FootBall",
+    "round": "Knockout Stage - Group B",
+    "broadcaster": "ONO TV",
+    "banner_image": "https://i1.wp.com/api.sofascore1.com/api/v1/team/4748/image|https://i1.wp.com/api.sofascore1.com/api/v1/team/4778/image",
+    "lineup_published": true,
+    "win_probability": {
+      "home": 4,
+      "away": 96
+    }
+  },
+  "team1": {
+    "name": "Brazil",
+    "lineup": "Lineup will be published at the match time."
+  },
+  "team2": {
+    "name": "Morocco",
+    "lineup": "Lineup will be published at the match time."
+  },
+  "info_sources": [
+    {
+      "name": "Link 1",
+      "url": "https://ytvs-frame.pages.dev/frame?ref=fifac1"
+    },
+    {
+      "name": "Link 2",
+      "url": "https://ytvs-frame.pages.dev/frame?ref=https://ytvs-render.pages.dev/shaka?ref=fifac2"
+    },
+    {
+      "name": "Link 3",
+      "url": "https://ytvs-frame.pages.dev/frame?ref=fifac3"
+    },
+    {
+      "name": "Link 4",
+      "url": "https://ytvs-frame.pages.dev/frame?ref=https://ytvs-render.pages.dev/shaka?ref=fifac4"
+    },
+    {
+      "name": "Link 5",
+      "url": "https://ytvs-frame.pages.dev/frame?ref=https://ytvs-render.pages.dev/shaka?ref=fifac5"
+    },
+    {
+      "name": "Link 6",
+      "url": "https://ytvs-frame.pages.dev/frame?ref=https://ytvs-render.pages.dev/shaka?ref=fifac6"
+    },
+    {
+      "name": "Link 7",
+      "url": "https://ytvs-frame.pages.dev/frame?ref=fifac7"
+    },
+    {
+      "name": "Link 8",
+      "url": "https://ytvs-frame.pages.dev/frame?ref=fifac8"
+    }
+  ]
+}
