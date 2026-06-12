@@ -1,26 +1,26 @@
 {
   "match": {
-    "title": "South Korea vs Czechia",
-    "date": "12 JUN",
-    "time": "07:45 AM NST",
-    "stadium": "Akron Stadium, New Mexico",
+    "title": "USA vs Paraguay",
+    "date": "13 JUN",
+    "time": "06:45 AM NST",
+    "stadium": "Venue:Los Angeles Stadium, Inglewood",
     "league": "Fifa World CUP 2026",
-    "round": "Knockout",
-    "broadcaster": "Yono Tv Sports Official",
-    "banner_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6czX31EiRYK8jtCPs6gaRqUBZq1nf5fCghw&s|https://ssl.gstatic.com/onebox/media/sports/logos/optimized/8AluO-WxpcHtC0KKHmFgvg_96x96.png",
+    "round": "Group Stage - Group D",
+    "broadcaster": "ONO TV",
+    "banner_image": "https://i1.wp.com/api.sofascore1.com/api/v1/team/4724/image|https://i1.wp.com/api.sofascore1.com/api/v1/team/4789/image",
     "lineup_published": true,
     "win_probability": {
-      "home": 50,
-      "away": 50
+      "home": 60,
+      "away": 40
     }
   },
   "team1": {
-    "name": "South Korea",
-    "lineup": "Confirmed line-ups will be posted before the match starts"
+    "name": "USA",
+    "lineup": "Lineup will be published at the match time."
   },
   "team2": {
-    "name": "Czechia",
-    "lineup": "Confirmed line-ups will be posted before the match starts"
+    "name": "Paraguay",
+    "lineup": "Lineup will be published at the match time."
   },
   "info_sources": [
     {
@@ -29,7 +29,7 @@
     },
     {
       "name": "Link 2",
-      "url": "https://ytvs-frame.pages.dev/frame?ref=fifaa2"
+      "url": "https://ytvs-frame.pages.dev/frame?ref=https://ytvs-render.pages.dev/shaka?ref=fifaa2"
     },
     {
       "name": "Link 3",
@@ -37,11 +37,23 @@
     },
     {
       "name": "Link 4",
-      "url": "https://ytvs-frame.pages.dev/frame?ref=fifaa4"
+      "url": "https://ytvs-frame.pages.dev/frame?ref=https://ytvs-render.pages.dev/shaka?ref=fifaa4"
     },
     {
       "name": "Link 5",
-      "url": "https://ytvs-frame.pages.dev/frame?ref=fifaa5"
+      "url": "https://ytvs-frame.pages.dev/frame?ref=https://ytvs-render.pages.dev/shaka?ref=fifaa5"
+    },
+    {
+      "name": "Link 6",
+      "url": "https://ytvs-frame.pages.dev/frame?ref=https://ytvs-render.pages.dev/shaka?ref=fifaa6"
+    },
+    {
+      "name": "Link 7",
+      "url": "https://ytvs-frame.pages.dev/frame?ref=fifaa7"
+    },
+    {
+      "name": "Link 8",
+      "url": "https://ytvs-frame.pages.dev/frame?ref=fifaa8"
     }
   ]
 }
