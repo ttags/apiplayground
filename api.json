@@ -6,8 +6,8 @@
     "home_flag": "https://www.edigitalagency.com.au/wp-content/uploads/Cricket-Australia-logo-png-medium-size.png",
     "away_team": "Bangladesh",
     "away_flag": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5c/Bangladesh_Cricket_Board_Logo.svg/1280px-Bangladesh_Cricket_Board_Logo.svg.png",
-    "start_time": "2026-06-11T10:30:00+05:45",
-    "end_time": "2026-06-11T18:30:00+05:45"
+    "start_time": "2026-06-14T10:45:00+05:45",
+    "end_time": "2026-06-14T23:45:00+05:45"
   },
   {
     "league": "ODI Series",
@@ -18,6 +18,16 @@
     "away_flag": "https://static.vecteezy.com/system/resources/previews/075/653/898/non_2x/afghanistan-cricket-board-acb-logo-icon-free-png.png",
     "start_time": "2026-06-13T13:45:00+05:45",
     "end_time": "2026-06-13T23:45:00+05:45"
+  },
+  {
+    "league": "Sri Lanka Tour of West Indies",
+    "match_link": "https://www.yonotvs.com/p/match-details.html?id=srilanka",
+    "home_team": "Sri Lanka",
+    "home_flag": "https://cdn.freebiesupply.com/logos/large/2x/sri-lanka-logo-png-transparent.png",
+    "away_team": "West Indies",
+    "away_flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Cricket_West_Indies_Logo_2017.svg/1920px-Cricket_West_Indies_Logo_2017.svg.png",
+    "start_time": "2026-06-14T06:15:00+05:45",
+    "end_time": "2026-06-14T12:15:00+05:45"
   },
   {
     "league": "ICC Cricket World Cup Leage 2",
@@ -32,21 +42,41 @@
   {
     "league": "Fifa World CUP 2026",
     "match_link": "https://www.yonotvs.com/p/match-details.html?id=fifa",
-    "home_team": "Mexico",
-    "home_flag": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/yJF9xqmUGenD8108FJbg9A_96x96.png",
-    "away_team": "South Africa",
-    "away_flag": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/EGwD4_SUlmwZWbnHhcmTPA_96x96.png",
-    "start_time": "2026-06-12T00:45:00+05:45",
-    "end_time": "2026-06-12T04:45:00+05:45"
+    "home_team": "Canada",
+    "home_flag": "https://static.vecteezy.com/system/resources/thumbnails/013/861/174/small/canada-circle-flag-png.png",
+    "away_team": "Bosnia and Herzegovina",
+    "away_flag": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Bosnia_and_Herzegovina_Coats_of_Arms.png",
+    "start_time": "2026-06-13T00:45:00+05:45",
+    "end_time": "2026-06-13T04:45:00+05:45"
   },
   {
     "league": "Fifa World CUP 2026",
     "match_link": "https://www.yonotvs.com/p/match-details.html?id=fifaa",
-    "home_team": "South Korea",
-    "home_flag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6czX31EiRYK8jtCPs6gaRqUBZq1nf5fCghw&s",
-    "away_team": "Czechia",
-    "away_flag": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/8AluO-WxpcHtC0KKHmFgvg_96x96.png",
-    "start_time": "2026-06-12T07:45:00+05:45",
-    "end_time": "2026-06-12T11:45:00+05:45"
+    "home_team": "USA",
+    "home_flag": "https://i1.wp.com/api.sofascore1.com/api/v1/team/4724/image",
+    "away_team": "Paraguay",
+    "away_flag": "https://i1.wp.com/api.sofascore1.com/api/v1/team/4789/image",
+    "start_time": "2026-06-13T06:45:00+05:45",
+    "end_time": "2026-06-13T10:45:00+05:45"
+  },
+  {
+    "league": "Fifa World CUP 2026 - FootBall",
+    "match_link": "https://www.yonotvs.com/p/match-details.html?id=fifab",
+    "home_team": "Qatar",
+    "home_flag": "https://i1.wp.com/api.sofascore1.com/api/v1/team/4792/image",
+    "away_team": "Switzerland",
+    "away_flag": "https://i1.wp.com/api.sofascore1.com/api/v1/team/4699/image",
+    "start_time": "2026-06-14T00:45:00+05:45",
+    "end_time": "2026-06-14T02:45:00+05:45"
+  },
+  {
+    "league": "Fifa World CUP 2026 - FootBall",
+    "match_link": "https://www.yonotvs.com/p/match-details.html?id=fifac",
+    "home_team": "Brazil",
+    "home_flag": "https://i1.wp.com/api.sofascore1.com/api/v1/team/4748/image",
+    "away_team": "Morocco",
+    "away_flag": "https://i1.wp.com/api.sofascore1.com/api/v1/team/4778/image",
+    "start_time": "2026-06-14T06:45:00+05:45",
+    "end_time": "2026-06-14T08:45:00+05:45"
   }
 ]
