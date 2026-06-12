@@ -1,0 +1,47 @@
+{
+  "match": {
+    "title": "Sri Lanka vs West Indies",
+    "date": "14 JUN",
+    "time": "06:15 AM NST",
+    "stadium": "Sabina Park, Kingston",
+    "league": "Sri Lanka Tour of West Indies",
+    "round": "2nd Round of T20",
+    "broadcaster": "ONO TV Sports",
+    "banner_image": "https://cdn.freebiesupply.com/logos/large/2x/sri-lanka-logo-png-transparent.png|https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Cricket_West_Indies_Logo_2017.svg/1920px-Cricket_West_Indies_Logo_2017.svg.png",
+    "lineup_published": true,
+    "win_probability": {
+      "home": 41,
+      "away": 59
+    }
+  },
+  "team1": {
+    "name": "Sri Lanka",
+    "lineup": "Dushmantha Chameera\nRight-arm Fast Bowler\n\t\nDasun Shanaka\nRight-Handed Batsman • Right-arm Medium Bowler\n\t\nKusal Mendis\n\t(C)\t(Wk)\nRight-Handed Batsman\n\t\nBinura Fernando\nLeft-arm Medium Fast Bowler\n\t\nWanindu Hasaranga\nRight-Handed Batsman • Right-arm Leg Spin Bowler\n\t\nKamindu Mendis\nLeft-Handed Batsman • Left-arm Off Spin Bowler\n\t\nNuwan Thushara\nRight-arm Medium Fast Bowler\n\t\nPathum Nissanka\nRight-Handed Batsman\n\t\nMilan Rathnayake\nRight-arm Medium Fast Bowler\n\t\nLasith Croospulle\nRight-Handed Batsman\n\t\nMaheesh Theekshana\nRight-arm Off Spin Bowler\n\t\nKamil Mishara\n\t(Wk)\nLeft-Handed Batsman\n\t\nDunith Wellalage\nLeft-arm Off Spin Bowler\n\t\nDilshan Madushanka\nLeft-arm Fast Medium Bowler\n\t\nPavan Rathnayake\nRight-Handed Batsman\n\t\nEshan Malinga\nRight-arm Fast Medium Bowler"
+  },
+  "team2": {
+    "name": "West Indies",
+    "lineup": "Jason Holder\nRight-Handed Batsman • Right-arm Medium Fast Bowler\n\t\nAkeal Hosein\nLeft-arm Off Spin Bowler\n\t\nRoston Chase\nRight-Handed Batsman • Right-arm Off Spin Bowler\n\t\nShai Hope\n\t(C)\t(Wk)\nRight-Handed Batsman\n\t\nGudakesh Motie\nLeft-arm Off Spin Bowler\n\t\nBrandon King\nRight-Handed Batsman\n\t\nShimron Hetmyer\nLeft-Handed Batsman\n\t\nShamar Springer\nRight-Handed Batsman • Right-arm Fast Medium Bowler\n\t\nRovman Powell\nRight-Handed Batsman\n\t\nRomario Shepherd\nRight-Handed Batsman • Right-arm Fast Medium Bowler\n\t\nSherfane Rutherford\nLeft-Handed Batsman\n\t\nMatthew Forde\nRight-arm Medium Bowler\n\t\nAckeem Auguste\nLeft-Handed Batsman\n\t\nJewel Andrew\n\t(Wk)\nRight-Handed Batsman\n\t\nShamar Joseph\nRight-arm Fast Bowler"
+  },
+  "info_sources": [
+    {
+      "name": "Link 1",
+      "url": "https://ytvs-frame.pages.dev/frame?ref=https://ytvs-render.pages.dev/shaka?ref=srilanka1"
+    },
+    {
+      "name": "Link 2",
+      "url": "https://ytvs-frame.pages.dev/frame?ref=srilanka2"
+    },
+    {
+      "name": "Link 3",
+      "url": "https://ytvs-frame.pages.dev/frame?ref=https://ytvs-render.pages.dev/shaka?ref=srilanka3"
+    },
+    {
+      "name": "Link 4",
+      "url": "https://ytvs-frame.pages.dev/frame?ref=srilanka4"
+    },
+    {
+      "name": "Link 5",
+      "url": "https://ytvs-frame.pages.dev/frame?ref=srilanka5"
+    }
+  ]
+}
