@@ -1,0 +1,59 @@
+{
+  "match": {
+    "title": "Qatar vs Switzerland",
+    "date": "14 JUN",
+    "time": "12:45 AM NST",
+    "stadium": "San Francisco Bay Area Stadium, Santa Clara",
+    "league": "Fifa World CUP 2026 - FootBall",
+    "round": "Knockout Stage - Group B",
+    "broadcaster": "ONO TV",
+    "banner_image": "https://i1.wp.com/api.sofascore1.com/api/v1/team/4792/image|https://i1.wp.com/api.sofascore1.com/api/v1/team/4699/image",
+    "lineup_published": true,
+    "win_probability": {
+      "home": 4,
+      "away": 96
+    }
+  },
+  "team1": {
+    "name": "Qatar",
+    "lineup": "Lineup will be published at the match time."
+  },
+  "team2": {
+    "name": "Switzerland",
+    "lineup": "Lineup will be published at the match time."
+  },
+  "info_sources": [
+    {
+      "name": "Link 1",
+      "url": "https://ytvs-frame.pages.dev/frame?ref=fifab1"
+    },
+    {
+      "name": "Link 2",
+      "url": "https://ytvs-frame.pages.dev/frame?ref=https://ytvs-render.pages.dev/shaka?ref=fifab2"
+    },
+    {
+      "name": "Link 3",
+      "url": "https://ytvs-frame.pages.dev/frame?ref=fifab3"
+    },
+    {
+      "name": "Link 4",
+      "url": "https://ytvs-frame.pages.dev/frame?ref=https://ytvs-render.pages.dev/shaka?ref=fifab4"
+    },
+    {
+      "name": "Link 5",
+      "url": "https://ytvs-frame.pages.dev/frame?ref=https://ytvs-render.pages.dev/shaka?ref=fifab5"
+    },
+    {
+      "name": "Link 6",
+      "url": "https://ytvs-frame.pages.dev/frame?ref=https://ytvs-render.pages.dev/shaka?ref=fifab6"
+    },
+    {
+      "name": "Link 7",
+      "url": "https://ytvs-frame.pages.dev/frame?ref=fifab7"
+    },
+    {
+      "name": "Link 8",
+      "url": "https://ytvs-frame.pages.dev/frame?ref=fifab8"
+    }
+  ]
+}
