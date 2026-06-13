@@ -1,13 +1,13 @@
 {
   "match": {
-    "title": "USA vs Paraguay",
+    "title": "Australia vs Turkiye",
     "date": "13 JUN",
     "time": "06:45 AM NST",
     "stadium": "Venue:Los Angeles Stadium, Inglewood",
     "league": "Fifa World CUP 2026",
     "round": "Group Stage - Group D",
     "broadcaster": "ONO TV",
-    "banner_image": "https://i1.wp.com/api.sofascore1.com/api/v1/team/4724/image|https://i1.wp.com/api.sofascore1.com/api/v1/team/4789/image",
+    "banner_image": "https://i1.wp.com/api.sofascore1.com/api/v1/team/4741/image|https://i1.wp.com/api.sofascore1.com/api/v1/team/4700/image",
     "lineup_published": true,
     "win_probability": {
       "home": 60,
@@ -15,11 +15,11 @@
     }
   },
   "team1": {
-    "name": "USA",
+    "name": "Australia",
     "lineup": "Lineup will be published at the match time."
   },
   "team2": {
-    "name": "Paraguay",
+    "name": "Turkiye",
     "lineup": "Lineup will be published at the match time."
   },
   "info_sources": [
