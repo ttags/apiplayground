@@ -1,13 +1,13 @@
 {
   "match": {
-    "title": "Canada vs Bosnia and Herzegovina",
-    "date": "13 JUN",
-    "time": "12:45 AM NST",
+    "title": "Haiti vs Scotland",
+    "date": "14 JUN",
+    "time": "06:45 AM NST",
     "stadium": "Toronto Stadium in Canada Toronto",
     "league": "Fifa World CUP 2026",
     "round": "Group Stage - Group B",
     "broadcaster": "ONO TV",
-    "banner_image": "https://static.vecteezy.com/system/resources/thumbnails/013/861/174/small/canada-circle-flag-png.png|https://upload.wikimedia.org/wikipedia/commons/f/f9/Bosnia_and_Herzegovina_Coats_of_Arms.png",
+    "banner_image": "https://i1.wp.com/api.sofascore1.com/api/v1/team/7229/image|https://i1.wp.com/api.sofascore1.com/api/v1/team/4695/image",
     "lineup_published": true,
     "win_probability": {
       "home": 66,
@@ -15,11 +15,11 @@
     }
   },
   "team1": {
-    "name": "Canada",
+    "name": "Haiti",
     "lineup": "Lineup will be published at the match time."
   },
   "team2": {
-    "name": "Bosnia and Herzegovina",
+    "name": "Scotland",
     "lineup": "Lineup will be published at the match time."
   },
   "info_sources": [
