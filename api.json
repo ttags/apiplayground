@@ -20,7 +20,7 @@
     "end_time": "2026-06-13T23:45:00+05:45"
   },
   {
-    "league": "Sri Lanka Tour of West Indies",
+    "league": "Sri Lanka Tour of West Indies Cricket",
     "match_link": "https://www.yonotvs.com/p/match-details.html?id=srilanka",
     "home_team": "Sri Lanka",
     "home_flag": "https://cdn.freebiesupply.com/logos/large/2x/sri-lanka-logo-png-transparent.png",
@@ -42,20 +42,30 @@
   {
     "league": "Fifa World CUP 2026",
     "match_link": "https://www.yonotvs.com/p/match-details.html?id=fifa",
-    "home_team": "Canada",
-    "home_flag": "https://static.vecteezy.com/system/resources/thumbnails/013/861/174/small/canada-circle-flag-png.png",
-    "away_team": "Bosnia and Herzegovina",
-    "away_flag": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Bosnia_and_Herzegovina_Coats_of_Arms.png",
-    "start_time": "2026-06-13T00:45:00+05:45",
-    "end_time": "2026-06-13T04:45:00+05:45"
+    "home_team": "Haiti",
+    "home_flag": "https://i1.wp.com/api.sofascore1.com/api/v1/team/7229/image",
+    "away_team": "Scotland",
+    "away_flag": "https://i1.wp.com/api.sofascore1.com/api/v1/team/4695/image",
+    "start_time": "2026-06-14T06:45:00+05:45",
+    "end_time": "2026-06-14T10:45:00+05:45"
   },
   {
     "league": "Fifa World CUP 2026",
     "match_link": "https://www.yonotvs.com/p/match-details.html?id=fifaa",
-    "home_team": "USA",
-    "home_flag": "https://i1.wp.com/api.sofascore1.com/api/v1/team/4724/image",
-    "away_team": "Paraguay",
-    "away_flag": "https://i1.wp.com/api.sofascore1.com/api/v1/team/4789/image",
+    "home_team": "Australia",
+    "home_flag": "https://i1.wp.com/api.sofascore1.com/api/v1/team/4741/image",
+    "away_team": "Turkiye",
+    "away_flag": "https://i1.wp.com/api.sofascore1.com/api/v1/team/4700/image",
+    "start_time": "2026-06-13T06:45:00+05:45",
+    "end_time": "2026-06-13T10:45:00+05:45"
+  },
+  {
+    "league": "Fifa World CUP 2026",
+    "match_link": "https://www.yonotvs.com/p/match-details.html?id=fifad",
+    "home_team": "Germany",
+    "home_flag": "https://i1.wp.com/api.sofascore1.com/api/v1/team/4711/image",
+    "away_team": "Curacao",
+    "away_flag": "https://i1.wp.com/api.sofascore1.com/api/v1/team/55827/image",
     "start_time": "2026-06-13T06:45:00+05:45",
     "end_time": "2026-06-13T10:45:00+05:45"
   },
@@ -76,7 +86,7 @@
     "home_flag": "https://i1.wp.com/api.sofascore1.com/api/v1/team/4748/image",
     "away_team": "Morocco",
     "away_flag": "https://i1.wp.com/api.sofascore1.com/api/v1/team/4778/image",
-    "start_time": "2026-06-14T06:45:00+05:45",
-    "end_time": "2026-06-14T08:45:00+05:45"
+    "start_time": "2026-06-14T03:45:00+05:45",
+    "end_time": "2026-06-14T05:45:00+05:45"
   }
 ]
