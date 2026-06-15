@@ -3,10 +3,11 @@
     "title": "Nepal vs Namibia",
     "date": "21 JUL",
     "time": "02:45 PM NST",
+    "end_time": "10:45 PM NST",
     "stadium": "Sportpark Maarschalkerweerd",
     "league": "ICC Cricket World Cup Leage 2",
     "round": "1st Round of ODI",
-    "broadcaster": "ONO TV Sports",
+    "broadcaster": "ONO TV",
     "banner_image": "https://dns-tv.pages.dev/logo/can.png|https://s.ndtvimg.com/images/entities/300/nam-2130.png",
     "lineup_published": true,
     "win_probability": {
