@@ -1,25 +1,26 @@
 {
   "match": {
-    "title": "Germany vs Curacao",
-    "date": "14 JUN",
+    "title": "Iran vs New Zeland",
+    "date": "16 JUN",
     "time": "06:45 AM NST",
+    "end_time": "10:15 AM NST",
     "stadium": "Venue:Los Angeles Stadium, Inglewood",
-    "league": "Fifa World CUP 2026",
+    "league": "FIFA World CUP 2026",
     "round": "Group Stage - Group D",
     "broadcaster": "ONO TV",
-    "banner_image": "https://i1.wp.com/api.sofascore1.com/api/v1/team/4711/image|https://i1.wp.com/api.sofascore1.com/api/v1/team/55827/image",
+    "banner_image": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/1oq8Fy7ETpBpZNaCA22ArQ_96x96.png|https://ssl.gstatic.com/onebox/media/sports/logos/optimized/U4GV26FjF1W9Aphi7SELhw_96x96.png",
     "lineup_published": true,
     "win_probability": {
-      "home": 71,
-      "away": 29
+      "home": 50.2,
+      "away": 49.8
     }
   },
   "team1": {
-    "name": "Germany",
+    "name": "Iran",
     "lineup": "Lineup will be published at the match time."
   },
   "team2": {
-    "name": "Curacao",
+    "name": "New Zeland",
     "lineup": "Lineup will be published at the match time."
   },
   "info_sources": [
