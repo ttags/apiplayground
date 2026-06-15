@@ -1,25 +1,26 @@
 {
   "match": {
-    "title": "Qatar vs Switzerland",
-    "date": "14 JUN",
+    "title": "Belgium vs Egypt",
+    "date": "16 JUN",
     "time": "12:45 AM NST",
-    "stadium": "San Francisco Bay Area Stadium, Santa Clara",
+    "end_time": "04:15 AM NST",
+    "stadium": "Venue:Seattle Stadium, Seattle",
     "league": "Fifa World CUP 2026 - FootBall",
-    "round": "Knockout Stage - Group B",
+    "round": "Knockout Stage",
     "broadcaster": "ONO TV",
-    "banner_image": "https://i1.wp.com/api.sofascore1.com/api/v1/team/4792/image|https://i1.wp.com/api.sofascore1.com/api/v1/team/4699/image",
+    "banner_image": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/6SF7yEoB60bU5knw-M7R5Q_96x96.png|https://ssl.gstatic.com/onebox/media/sports/logos/optimized/lYah1Uqw37XdicC6C4HNqg_96x96.png",
     "lineup_published": true,
     "win_probability": {
-      "home": 4,
-      "away": 96
+      "home": 71.1,
+      "away": 28.9
     }
   },
   "team1": {
-    "name": "Qatar",
+    "name": "Belgium",
     "lineup": "Lineup will be published at the match time."
   },
   "team2": {
-    "name": "Switzerland",
+    "name": "Egypt",
     "lineup": "Lineup will be published at the match time."
   },
   "info_sources": [
