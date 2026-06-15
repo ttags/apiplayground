@@ -1,25 +1,26 @@
 {
   "match": {
-    "title": "Haiti vs Scotland",
-    "date": "14 JUN",
-    "time": "06:45 AM NST",
-    "stadium": "Toronto Stadium in Canada Toronto",
-    "league": "Fifa World CUP 2026",
-    "round": "Group Stage - Group B",
+    "title": "Spain vs Cabo Verde",
+    "date": "15 JUN",
+    "time": "09:45 PM NST",
+    "end_time": "01:15 AM NST",
+    "stadium": "Atlanta Stadium, Atlanta",
+    "league": "FIFA World Cup 2026",
+    "round": "Khockout",
     "broadcaster": "ONO TV",
-    "banner_image": "https://i1.wp.com/api.sofascore1.com/api/v1/team/7229/image|https://i1.wp.com/api.sofascore1.com/api/v1/team/4695/image",
+    "banner_image": "https://i1.wp.com/api.sofascore1.com/api/v1/team/4698/image|https://i1.wp.com/api.sofascore1.com/api/v1/team/4753/image",
     "lineup_published": true,
     "win_probability": {
-      "home": 66,
-      "away": 34
+      "home": 90.8,
+      "away": 9.2
     }
   },
   "team1": {
-    "name": "Haiti",
+    "name": "Spain",
     "lineup": "Lineup will be published at the match time."
   },
   "team2": {
-    "name": "Scotland",
+    "name": "Cabo Verde",
     "lineup": "Lineup will be published at the match time."
   },
   "info_sources": [
