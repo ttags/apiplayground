@@ -1,25 +1,26 @@
 {
   "match": {
-    "title": "Brazil vs Morocco",
-    "date": "14 JUN",
+    "title": "Saudi Arabia vs Uruguay",
+    "date": "16 JUN",
     "time": "03:45 AM NST",
-    "stadium": "Venue:Los Angeles Stadium, Inglewood",
+    "end_time": "07:15 AM NST",
+    "stadium": "Miami Stadium, Miami Gardens",
     "league": "Fifa World CUP 2026 - FootBall",
-    "round": "Knockout Stage - Group B",
+    "round": "Knockout Stage",
     "broadcaster": "ONO TV",
-    "banner_image": "https://i1.wp.com/api.sofascore1.com/api/v1/team/4748/image|https://i1.wp.com/api.sofascore1.com/api/v1/team/4778/image",
+    "banner_image": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/QoAJxO46fHid3_T-7nRZ0Q_96x96.png|https://ssl.gstatic.com/onebox/media/sports/logos/optimized/KnSUdQWiGRoy89q4x85IgA_96x96.png",
     "lineup_published": true,
     "win_probability": {
-      "home": 4,
-      "away": 96
+      "home": 12.5,
+      "away": 87.5
     }
   },
   "team1": {
-    "name": "Brazil",
+    "name": "Saudi Arabia",
     "lineup": "Lineup will be published at the match time."
   },
   "team2": {
-    "name": "Morocco",
+    "name": "Uruguay",
     "lineup": "Lineup will be published at the match time."
   },
   "info_sources": [
