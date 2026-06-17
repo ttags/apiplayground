@@ -2,9 +2,9 @@
   {
     "league": "FIFA World Cup 2026",
     "match_link": "https://www.yonotvs.com/p/match-details.html?id=fifa",
-    "home_team": "Spain",
+    "home_team": "Portugal",
     "home_flag": "https://i1.wp.com/api.sofascore1.com/api/v1/team/4698/image",
-    "away_team": "Cabo Verde",
+    "away_team": "DR Congo",
     "away_flag": "https://i1.wp.com/api.sofascore1.com/api/v1/team/4753/image",
     "start_time": "2026-06-15T21:45:00+05:45",
     "end_time": "2026-06-16T01:15:00+05:45"
