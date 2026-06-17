@@ -1,39 +1,43 @@
 {
   "fifa1": {
     "type": "direct",
-    "url": "https://ww2.sporttsonline.click/channels/hd/hd2.php"
+    "url": "https://hlsplayers.pages.dev/bplayer?url=https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist.m3u8"
   },
   "fifa2": {
     "type": "direct",
-    "url": "https://cr7world.pages.dev/mpd/worldcuptv"
+    "url": "https://cr7world.pages.dev/shakaa?id=rtb2"
   },
   "fifa3": {
     "type": "direct",
-    "url": "https://ww2.sporttsonline.click/channels/hd/hd6.php"
+    "url": "https://ww2.sporttsonline.click/channels/hd/hd2.php"
   },
   "fifa4": {
+    "type": "direct",
+    "url": "https://ww2.sporttsonline.click/channels/hd/hd6.php"
+  },
+  "fifa5": {
     "type": "dash",
     "url": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd",
     "keyId": "ce7ab3022e753307997f58afe001bac4",
     "key": "72d631a66e635c60829a0fe7705516c1"
   },
-  "fifa5": {
+  "fifa6": {
     "type": "dash",
     "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ubehitlwzo/out/v1/8e09c381a51f4366a19e979418112e8f/cenc.mpd",
     "keyId": "a7d11d37a1f7611ee88d4db880171f32",
     "key": "68f96d618b0b956b008c445896a25a79"
   },
-  "fifa6": {
+  "fifa7": {
     "type": "dash",
     "url": "https://ottlive.dishhome.com.np/protected/GgTOzZkB0RDJ74Ryniuo/dash/manifest.mpd",
     "keyId": "220d8978f3fd45b696137c5b94f7a264",
     "key": "7bfe13500edee4f837ec03a907896306"
   },
-  "fifa7": {
+  "fifa8": {
     "type": "direct",
     "url": "https://ww2.sporttsonline.click/channels/hd/hd9.php"
   },
-  "fifa8": {
+  "fifa9": {
     "type": "direct",
     "url": "https://ww2.sporttsonline.click/channels/hd/hd1.php"
   },
