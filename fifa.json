@@ -1,6 +1,6 @@
 {
   "match": {
-    "title": "Spain vs Cabo Verde",
+    "title": "Portugal vs DR Congo",
     "date": "15 JUN",
     "time": "09:45 PM NST",
     "end_time": "01:15 AM NST",
@@ -16,11 +16,11 @@
     }
   },
   "team1": {
-    "name": "Spain",
+    "name": "Portugal",
     "lineup": "Lineup will be published at the match time."
   },
   "team2": {
-    "name": "Cabo Verde",
+    "name": "DR Congo",
     "lineup": "Lineup will be published at the match time."
   },
   "info_sources": [
@@ -38,7 +38,7 @@
     },
     {
       "name": "Link 4",
-      "url": "https://ytvs-frame.pages.dev/frame?ref=https://ytvs-render.pages.dev/shaka?ref=fifa4"
+      "url": "https://ytvs-frame.pages.dev/frame?ref=fifa4"
     },
     {
       "name": "Link 5",
@@ -50,11 +50,15 @@
     },
     {
       "name": "Link 7",
-      "url": "https://ytvs-frame.pages.dev/frame?ref=fifa7"
+      "url": "https://ytvs-frame.pages.dev/frame?ref=https://ytvs-render.pages.dev/shaka?ref=fifa7"
     },
     {
       "name": "Link 8",
       "url": "https://ytvs-frame.pages.dev/frame?ref=fifa8"
+    },
+    {
+      "name": "Link 9",
+      "url": "https://ytvs-frame.pages.dev/frame?ref=fifa9"
     }
   ]
 }
