@@ -1,12 +1,12 @@
 {
   "match": {
     "title": "India vs Afghanistan",
-    "date": "17 JUN",
+    "date": "20 JUN",
     "time": "01:45 PM NST",
     "end_time": "10:15 PM NST",
-    "stadium": "Venue:Ekana Cricket Stadium B Ground, Ardonamau",
+    "stadium": "MA Chidambaram Stadium, Chennai",
     "league": "ODI",
-    "round": "2nd Round of ODI",
+    "round": "Final Round of ODI",
     "broadcaster": "ONO TV",
     "banner_image": "https://upload.wikimedia.org/wikipedia/commons/4/45/Board_of_Control_for_Cricket_in_India_Logo_%282024%29.svg|https://static.vecteezy.com/system/resources/previews/075/653/898/non_2x/afghanistan-cricket-board-acb-logo-icon-free-png.png",
     "lineup_published": true,
@@ -30,19 +30,15 @@
     },
     {
       "name": "Link 2",
-      "url": "https://ytvs-frame.pages.dev/frame?ref=india2"
+      "url": "https://ytvs-frame.pages.dev/frame?ref=https://ytvs-render.pages.dev/shaka?ref=india2"
     },
     {
       "name": "Link 3",
-      "url": "https://ytvs-frame.pages.dev/frame?ref=https://ytvs-render.pages.dev/shaka?ref=india3"
+      "url": "https://ytvs-frame.pages.dev/frame?ref=india3"
     },
     {
       "name": "Link 4",
       "url": "https://ytvs-frame.pages.dev/frame?ref=india4"
-    },
-    {
-      "name": "Link 5",
-      "url": "https://ytvs-frame.pages.dev/frame?ref=india5"
     }
   ]
 }
