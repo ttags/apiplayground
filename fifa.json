@@ -1,26 +1,26 @@
 {
   "match": {
-    "title": "Portugal vs Uzbekistan",
-    "date": "23 JUN",
-    "time": "10:45 PM NST",
-    "end_time": "02:15 AM NST",
-    "stadium": "Houston Stadium, Houston",
+    "title": "Norway vs France",
+    "date": "27 JUN",
+    "time": "12:45 AM NST",
+    "end_time": "04:15 AM NST",
+    "stadium": "Boston Stadium, Foxborough",
     "league": "FIFA World Cup 2026",
     "round": "Khockout",
     "broadcaster": "ONO TV",
-    "banner_image": "https://i1.wp.com/api.sofascore1.com/api/v1/team/4698/image|https://ssl.gstatic.com/onebox/media/sports/logos/optimized/9-A8iDJhj09K55En7WPQBg_96x96.png",
+    "banner_image": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/lLDKax72TPgU_Hcj0W-DOg_96x96.png|https://ssl.gstatic.com/onebox/media/sports/logos/optimized/z3JEQB3coEAGLCJBEUzQ2A_96x96.png",
     "lineup_published": true,
     "win_probability": {
-      "home": 81,
-      "away": 19
+      "home": 27.6,
+      "away": 72.4
     }
   },
   "team1": {
-    "name": "Portugal",
+    "name": "Norway",
     "lineup": "Lineup will be published at the match time."
   },
   "team2": {
-    "name": "Uzbekistan",
+    "name": "France",
     "lineup": "Lineup will be published at the match time."
   },
   "info_sources": [
