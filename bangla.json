@@ -1,12 +1,12 @@
 {
   "match": {
     "title": "Bangladesh vs Zimbabwe",
-    "date": "28 JUN",
+    "date": "09 JUL",
     "time": "01:15 PM NST",
-    "end_time": "09:15 PM NST",
+    "end_time": "09:45 PM NST",
     "stadium": "Harare Sports Club, Harare",
-    "league": "Test",
-    "round": "Test Series",
+    "league": "ODI",
+    "round": "ODI Series",
     "broadcaster": "ONO TV",
     "banner_image": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/uTQstsRqQKZC-VUZWaNi0w_96x96.png|https://ssl.gstatic.com/onebox/media/sports/logos/optimized/8bI8VibVGa2HtxKN_SZE6g_96x96.png",
     "lineup_published": true,
@@ -21,7 +21,7 @@
   },
   "team2": {
     "name": "Zimbabwe",
-    "lineup": "Brendan Taylor\t(Wk)\nRight-Handed Batsman\n\t\nGraeme Cremer\nRight-Handed Batsman • Right-arm Leg Spin Bowler\n\t\nCraig Ervine\nLeft-Handed Batsman\n\t\nInnocent Kaia\nRight-Handed Batsman\n\t\nRoy Kaia\nRight-Handed Batsman • Right-arm Off Spin Bowler\n\t\nTafadzwa Tsiga\n\t(Wk)\nRight-Handed Batsman\n\t\nRichard Ngarava\n\t(C)\nLeft-arm Fast Medium Bowler\n\t\nWesley Madhevere\nRight-Handed Batsman • Right-arm Off Spin Bowler\n\t\nBlessing Muzarabani\nRight-arm Fast Medium Bowler\n\t\nBrad Evans\nRight-Handed Batsman • Right-arm Medium Fast Bowler\n\t\nBen Curran\nLeft-Handed Batsman\n\t\nTadiwanashe Marumani\n\t(Wk)\nLeft-Handed Batsman\n\t\nTanaka Chivanga\nRight-arm Fast Bowler\n\t\nBrian Bennett\nRight-Handed Batsman • Right-arm Off Spin Bowler\n\t\nNewman Nyamhuri\nLeft-arm Fast Medium Bowler"
+    "lineup": "Brendan Taylor\t(Wk)\nRight-Handed Batsman\n\t\nGraeme Cremer\nRight-Handed Batsman â¢ Right-arm Leg Spin Bowler\n\t\nCraig Ervine\nLeft-Handed Batsman\n\t\nInnocent Kaia\nRight-Handed Batsman\n\t\nRoy Kaia\nRight-Handed Batsman â¢ Right-arm Off Spin Bowler\n\t\nTafadzwa Tsiga\n\t(Wk)\nRight-Handed Batsman\n\t\nRichard Ngarava\n\t(C)\nLeft-arm Fast Medium Bowler\n\t\nWesley Madhevere\nRight-Handed Batsman â¢ Right-arm Off Spin Bowler\n\t\nBlessing Muzarabani\nRight-arm Fast Medium Bowler\n\t\nBrad Evans\nRight-Handed Batsman â¢ Right-arm Medium Fast Bowler\n\t\nBen Curran\nLeft-Handed Batsman\n\t\nTadiwanashe Marumani\n\t(Wk)\nLeft-Handed Batsman\n\t\nTanaka Chivanga\nRight-arm Fast Bowler\n\t\nBrian Bennett\nRight-Handed Batsman â¢ Right-arm Off Spin Bowler\n\t\nNewman Nyamhuri\nLeft-arm Fast Medium Bowler"
   },
   "info_sources": [
     {
