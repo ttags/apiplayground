@@ -111,6 +111,10 @@
     {
       "name": "Link 22",
       "url": "https://ytvs-frame.pages.dev/frame?ref=fifa22"
+    },
+    {
+      "name": "Link 23",
+      "url": "https://ytvs-frame.pages.dev/frame?ref=https://ytvs-render.pages.dev/shaka?ref=fifa23"
     }
   ]
 }
