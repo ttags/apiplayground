@@ -1,111 +1,103 @@
 {
   "fifa1": {
     "type": "direct",
-    "url": "https://embedindia.st/embed/wc/2026-07-07/arg-egy/fox"
+    "url": "https://ww2.sporttsonline.click/channels/hd/hd2.php"
   },
   "fifa2": {
     "type": "direct",
-    "url": "https://hlsplayers.pages.dev/player3?url=https://live05.bfgrut.app/live/24561735.m3u8"
+    "url": "https://ww2.sporttsonline.click/channels/hd/hd6.php"
   },
   "fifa3": {
-    "type": "direct",
-    "url": "https://ww2.sporttsonline.click/channels/hd/hd2.php"
+    "type": "dash",
+    "url": "https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/fifa_ppv1/default/index.mpd",
+    "keyId": "2c338a117d434ce4bbe3569231af90f1",
+    "key": "a9633d901ee8a3f4f58ac314b5c5f4fb"
   },
   "fifa4": {
     "type": "direct",
     "url": "https://cr7world.pages.dev/mpd/?id=wtv"
   },
   "fifa5": {
-    "type": "direct",
-    "url": "https://ww2.sporttsonline.click/channels/hd/hd6.php"
-  },
-  "fifa6": {
-    "type": "dash",
-    "url": "https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/fifa_ppv1/default/index.mpd",
-    "keyId": "2c338a117d434ce4bbe3569231af90f1",
-    "key": "a9633d901ee8a3f4f58ac314b5c5f4fb"
-  },
-  "fifa7": {
-    "type": "dash",
-    "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
-    "keyId": "14eeabf30c14b7fbf3008c03099ce011",
-    "key": "17d2ac8dbc5429bd70af3433aa12158d"
-  },
-  "fifa8": {
-    "type": "dash",
-    "url": "https://otte-qw.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd",
-    "keyId": "f6564ec2aee819046328a0e153be574d",
-    "key": "ff46a8a1031eb27ef22576a077c98ab7"
-  },
-  "fifa9": {
     "type": "dash",
     "url": "https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-m6/cmaf_cenc00/dash-short-hd.mpd",
     "keyId": "433ffba670963e70857859a9dff4be04",
     "key": "51ede3a821229fe81e71282c8eff80e3"
   },
+  "fifa6": {
+    "type": "dash",
+    "url": "https://dmbgaz4xf6jyh.cloudfront.net/live-stream-dai/69690cfcce0dc031830e7c1a/123a264b71764485bd49eca2d552cf33/d97743de3620a865848fff7a9de14dda1bf2409d/manifest.mpd?aid=688aae6d61c87d6274c05065&dnt=true&access_token=63ey9SOpQeHBRfWJYQLXQjelQc0QM1HXmlHp4iZrH8UCOCM8QtGIGg1sEEPJH0R0yXktUEXdLeB&uid=Knx65GY6UbaWSADZybEvf6m5MvqNIuNs&sid=bwRy9BgSc4RFeVhYh52hVIY8uPsJ4v4d&pid=A0xT1VnepBvKKqyeyRNtNkZBmHBrNNZM&ref=ditu.caracoltv.com&ext_pb=0&es=dmbgaz4xf6jyh.cloudfront.net&proto=https&pz=us&xr=us-east-2&manifestfilter=video_height:480-1080",
+    "keyId": "1c6bfd8d1cdd4df69ea5fc4dd2f025bb",
+    "key": "b6fd90027dac7a94a9461f8b2638cbb4"
+  },
+  "fifa7": {
+    "type": "direct",
+    "url": "https://cr7world.pages.dev/mpd/?id=goaltv"
+  },
+  "fifa8": {
+    "type": "direct",
+    "url": "https://hlsplayers.pages.dev/player3?url=https://live05.bfgrut.app/live/24561735.m3u8"
+  },
+  "fifa9": {
+    "type": "direct",
+    "url": "https://embedindia.st/embed/wc/2026-07-07/arg-egy/fox"
+  },
   "fifa10": {
+    "type": "dash",
+    "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
+    "keyId": "14eeabf30c14b7fbf3008c03099ce011",
+    "key": "17d2ac8dbc5429bd70af3433aa12158d"
+  },
+  "fifa11": {
+    "type": "dash",
+    "url": "https://otte-qw.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd",
+    "keyId": "f6564ec2aee819046328a0e153be574d",
+    "key": "ff46a8a1031eb27ef22576a077c98ab7"
+  },
+  "fifa12": {
     "type": "direct",
     "url": "https://hlsplayers.pages.dev/mpd?url=https://estreams.tv.nej.cz/dash/CH_TVP_SPORT_Portable.ism/playlist.mpd"
   },
-  "fifa11": {
+  "fifa13": {
     "type": "dash",
     "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ubehitlwzo/out/v1/8e09c381a51f4366a19e979418112e8f/cenc.mpd",
     "keyId": "a7d11d37a1f7611ee88d4db880171f32",
     "key": "68f96d618b0b956b008c445896a25a79"
   },
-  "fifa12": {
+  "fifa14": {
     "type": "direct",
     "url": "https://hlsplayers.pages.dev/player3?url=https://live05.msdht.app/live/14830711.m3u8"
   },
-  "fifa13": {
+  "fifa15": {
     "type": "dash",
     "url": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd",
     "keyId": "ce7ab3022e753307997f58afe001bac4",
     "key": "72d631a66e635c60829a0fe7705516c1"
   },
-  "fifa14": {
+  "fifa16": {
     "type": "direct",
     "url": "https://cr7world.pages.dev/shaka?id=mob1"
   },
-  "fifa15": {
+  "fifa17": {
     "type": "direct",
     "url": "https://cr7world.pages.dev/shaka?id=ios1"
   },
-  "fifa16": {
+  "fifa18": {
     "type": "direct",
     "url": "https://cr7world.pages.dev/shaka?id=ios2"
   },
-  "fifa17": {
+  "fifa19": {
     "type": "direct",
     "url": "https://cr7world.pages.dev/shakaa?id=rtb2"
   },
-  "fifa18": {
+  "fifa20": {
     "type": "dash",
     "url": "https://ottlive.dishhome.com.np/protected/GgTOzZkB0RDJ74Ryniuo/dash/manifest.mpd",
     "keyId": "220d8978f3fd45b696137c5b94f7a264",
     "key": "7bfe13500edee4f837ec03a907896306"
   },
-  "fifa19": {
-    "type": "direct",
-    "url": "https://ww2.sporttsonline.click/channels/hd/hd9.php"
-  },
-  "fifa20": {
-    "type": "direct",
-    "url": "https://ww2.sporttsonline.click/channels/hd/hd1.php"
-  },
   "fifa21": {
     "type": "direct",
-    "url": "https://cr7world.pages.dev/mpd/?id=goaltv"
-  },
-  "fifa22": {
-    "type": "direct",
     "url": "https://cr7world.pages.dev/shaka?id=TeamA3"
-  },
-  "fifa23": {
-    "type": "dash",
-    "url": "https://dmbgaz4xf6jyh.cloudfront.net/live-stream-dai/69690cfcce0dc031830e7c1a/123a264b71764485bd49eca2d552cf33/d97743de3620a865848fff7a9de14dda1bf2409d/manifest.mpd?aid=688aae6d61c87d6274c05065&dnt=true&access_token=63ey9SOpQeHBRfWJYQLXQjelQc0QM1HXmlHp4iZrH8UCOCM8QtGIGg1sEEPJH0R0yXktUEXdLeB&uid=Knx65GY6UbaWSADZybEvf6m5MvqNIuNs&sid=bwRy9BgSc4RFeVhYh52hVIY8uPsJ4v4d&pid=A0xT1VnepBvKKqyeyRNtNkZBmHBrNNZM&ref=ditu.caracoltv.com&ext_pb=0&es=dmbgaz4xf6jyh.cloudfront.net&proto=https&pz=us&xr=us-east-2&manifestfilter=video_height:480-1080",
-    "keyId": "1c6bfd8d1cdd4df69ea5fc4dd2f025bb",
-    "key": "b6fd90027dac7a94a9461f8b2638cbb4"
   },
   "ind1": {
     "type": "dash",
