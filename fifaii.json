@@ -1,0 +1,27 @@
+{
+  "match": {
+    "title": "France vs Spain",
+    "date": "15 JUL",
+    "time": "12:45 AM NST",
+    "end_time": "04:15 AM NST",
+    "stadium": "Kansas City Stadium, Kansas City",
+    "league": "FIFA World Cup 2026",
+    "round": "Semi Final",
+    "broadcaster": "ONO TV, yonotvs.com, onotv.net",
+    "banner_image": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/z3JEQB3coEAGLCJBEUzQ2A_96x96.png|https://ssl.gstatic.com/onebox/media/sports/logos/optimized/5hLkf7KFHhmpaiOJQv8LmA_96x96.png",
+    "lineup_published": true,
+    "win_probability": {
+      "home": 57.7,
+      "away": 42.3
+    }
+  },
+  "team1": {
+    "name": "France",
+    "lineup": "France (4-2-3-1): Mike Maignan (GK), Jules Koundé, Dayot Upamecano, William Saliba, Theo Hernández, Manu Koné, Adrien Rabiot, Ousmane Dembélé, Michael Olise, Désiré Doué, Kylian Mbappé."
+  },
+  "team2": {
+    "name": "Spain",
+    "lineup": "Spain (4-2-3-1): Unai Simón (GK), Pedro Porro, Pau Cubarsí, Aymeric Laporte, Marc Cucurella, Rodri, Fabián Ruiz, Lamine Yamal, Dani Olmo, Álex Baena, Mikel Oyarzabal."
+  },
+  "info_sources": []
+}
