@@ -1,32 +1,32 @@
 {
   "match": {
-    "title": "Argentina vs Egypt",
-    "date": "07 JUL",
-    "time": "09:45 PM NST",
-    "end_time": "01:15 AM NST",
-    "stadium": "Atlanta Stadium, Atlanta",
+    "title": "Norway vs England",
+    "date": "12 JUL",
+    "time": "02:45 AM NST",
+    "end_time": "06:15 AM NST",
+    "stadium": "Miami Stadium, Miami Gardens",
     "league": "FIFA World Cup 2026",
-    "round": "Khockout",
-    "broadcaster": "ONO TV",
-    "banner_image": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/1xBWyjjkA6vEWopPK3lIPA_96x96.png|https://ssl.gstatic.com/onebox/media/sports/logos/optimized/lYah1Uqw37XdicC6C4HNqg_96x96.png",
+    "round": "Quarter Finals",
+    "broadcaster": "ONO TV, yonotvs.com, onotv.net",
+    "banner_image": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/lLDKax72TPgU_Hcj0W-DOg_96x96.png|https://ssl.gstatic.com/onebox/media/sports/logos/optimized/DTqIL8Ba3KIuxGkpXw5ayA_96x96.png",
     "lineup_published": true,
     "win_probability": {
-      "home": 86.9,
-      "away": 13.1
+      "home": 20.4,
+      "away": 79.6
     }
   },
   "team1": {
-    "name": "Argentina",
-    "lineup": "Lineup will be published at the match time."
+    "name": "Norway",
+    "lineup": "Lineup will be published at the match time. The core XI team is: \nGoalkeeper: Ørjan Nyland\nDefenders: Julian Ryerson, Kristoffer Ajer, Torbjørn Heggem, David Møller Wolfe\nMidfielders: Martin Ødegaard (C), Sander Berge, Patrick Berg\nForwards: Andreas Schjelderup, Erling Haaland, Antonio Nusa"
   },
   "team2": {
-    "name": "Egypt",
-    "lineup": "Lineup will be published at the match time."
+    "name": "England",
+    "lineup": "Lineup will be published at the match time. The playing 11 members are: \nEngland's starting XI (4-2-3-1) for their World Cup quarter-final match against Norway at Hard Rock Stadium in Miami on July 11, 2026, is: Pickford (GK); James (RB), Konsa (CB), Guehi (CB), O'Reilly (LB); Anderson, Rice (CM); Saka (RW), Bellingham (AM), Gordon (LW); Kane (ST)."
   },
   "info_sources": [
     {
       "name": "Link 1",
-      "url": "https://ytvs-frame.pages.dev/frame?ref=fifa1"
+      "url": "https://ytvs-frame.pages.dev/frame?ref=https://ytvs-render.pages.dev/shaka?ref=fifa1"
     },
     {
       "name": "Link 2",
@@ -34,23 +34,23 @@
     },
     {
       "name": "Link 3",
-      "url": "https://ytvs-frame.pages.dev/frame?ref=fifa3"
+      "url": "https://ytvs-frame.pages.dev/frame?ref=https://ytvs-render.pages.dev/shaka?ref=fifa3"
     },
     {
       "name": "Link 4",
-      "url": "https://ytvs-frame.pages.dev/frame?ref=fifa4"
+      "url": "https://ytvs-frame.pages.dev/frame?ref=https://ytvs-render.pages.dev/shaka?ref=fifa4"
     },
     {
       "name": "Link 5",
-      "url": "https://ytvs-frame.pages.dev/frame?ref=fifa5"
+      "url": "https://ytvs-frame.pages.dev/frame?ref=https://ytvs-render.pages.dev/shaka?ref=fifa5"
     },
     {
       "name": "Link 6",
-      "url": "https://ytvs-frame.pages.dev/frame?ref=https://ytvs-render.pages.dev/shaka?ref=fifa6"
+      "url": "https://ytvs-frame.pages.dev/frame?ref=fifa6"
     },
     {
       "name": "Link 7",
-      "url": "https://ytvs-frame.pages.dev/frame?ref=https://ytvs-render.pages.dev/shaka?ref=fifa7"
+      "url": "https://ytvs-frame.pages.dev/frame?ref=fifa7"
     },
     {
       "name": "Link 8",
@@ -58,7 +58,7 @@
     },
     {
       "name": "Link 9",
-      "url": "https://ytvs-frame.pages.dev/frame?ref=https://ytvs-render.pages.dev/shaka?ref=fifa9"
+      "url": "https://ytvs-frame.pages.dev/frame?ref=fifa9"
     },
     {
       "name": "Link 10",
@@ -66,19 +66,19 @@
     },
     {
       "name": "Link 11",
-      "url": "https://ytvs-frame.pages.dev/frame?ref=https://ytvs-render.pages.dev/shaka?ref=fifa11"
+      "url": "https://ytvs-frame.pages.dev/frame?ref=fifa11"
     },
     {
       "name": "Link 12",
-      "url": "https://ytvs-frame.pages.dev/frame?ref=fifa12"
+      "url": "https://ytvs-frame.pages.dev/frame?ref=https://ytvs-render.pages.dev/shaka?ref=fifa12"
     },
     {
       "name": "Link 13",
-      "url": "https://ytvs-frame.pages.dev/frame?ref=https://ytvs-render.pages.dev/shaka?ref=fifa13"
+      "url": "https://ytvs-frame.pages.dev/frame?ref=fifa13"
     },
     {
       "name": "Link 14",
-      "url": "https://ytvs-frame.pages.dev/frame?ref=fifa14"
+      "url": "https://ytvs-frame.pages.dev/frame?ref=https://ytvs-render.pages.dev/shaka?ref=fifa14"
     },
     {
       "name": "Link 15",
@@ -86,7 +86,7 @@
     },
     {
       "name": "Link 16",
-      "url": "https://ytvs-frame.pages.dev/frame?ref=fifa16"
+      "url": "https://ytvs-frame.pages.dev/frame?ref=https://ytvs-render.pages.dev/shaka?ref=fifa16"
     },
     {
       "name": "Link 17",
@@ -94,7 +94,7 @@
     },
     {
       "name": "Link 18",
-      "url": "https://ytvs-frame.pages.dev/frame?ref=https://ytvs-render.pages.dev/shaka?ref=fifa18"
+      "url": "https://ytvs-frame.pages.dev/frame?ref=fifa18"
     },
     {
       "name": "Link 19",
@@ -106,15 +106,11 @@
     },
     {
       "name": "Link 21",
-      "url": "https://ytvs-frame.pages.dev/frame?ref=fifa21"
+      "url": "https://ytvs-frame.pages.dev/frame?ref=https://ytvs-render.pages.dev/shaka?ref=fifa21"
     },
     {
       "name": "Link 22",
       "url": "https://ytvs-frame.pages.dev/frame?ref=fifa22"
-    },
-    {
-      "name": "Link 23",
-      "url": "https://ytvs-frame.pages.dev/frame?ref=https://ytvs-render.pages.dev/shaka?ref=fifa23"
     }
   ]
 }
