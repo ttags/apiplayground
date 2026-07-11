@@ -1,18 +1,18 @@
 {
   "match": {
     "title": "India vs England",
-    "date": "07 JUL",
-    "time": "10:15 PM NST",
-    "end_time": "02:15 AM NST",
+    "date": "11 JUL",
+    "time": "07:15 PM NST",
+    "end_time": "11:15 PM NST",
     "stadium": "Trent Bridge, West Bridgford",
     "league": "T20 Cricket",
-    "round": "3rd Round",
-    "broadcaster": "ONO TV",
+    "round": "Last Round",
+    "broadcaster": "ONO TV, yonotvs.com, onotv.net",
     "banner_image": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/mlXOOB9HXxLpoeS2dHSgGA_96x96.png|https://ssl.gstatic.com/onebox/media/sports/logos/optimized/DTqIL8Ba3KIuxGkpXw5ayA_96x96.png",
     "lineup_published": true,
     "win_probability": {
-      "home": 45.8,
-      "away": 54.2
+      "home": 42.4,
+      "away": 57.6
     }
   },
   "team1": {
@@ -21,28 +21,12 @@
   },
   "team2": {
     "name": "England",
-    "lineup": "Liam Dawson\nRight-Handed Batsman â¢ Left-arm Off Spin Bowler\n\t\nAdil Rashid\nRight-arm Leg Spin Bowler\n\t\nJos Buttler\n\t(Wk)\nRight-Handed Batsman\n\t\nJofra Archer\nRight-arm Fast Bowler\n\t\nLuke Wood\nLeft-arm Fast Medium Bowler\n\t\nSaqib Mahmood\nRight-arm Fast Medium Bowler\n\t\nSam Curran\nLeft-Handed Batsman â¢ Left-arm Medium Fast Bowler\n\t\nPhil Salt\n\t(Wk)\nRight-Handed Batsman\n\t\nJosh Tongue\nRight-arm Fast Medium Bowler\n\t\nHarry Brook\n\t(C)\nRight-Handed Batsman\n\t\nTom Banton\nRight-Handed Batsman\n\t\nWill Jacks\nRight-Handed Batsman â¢ Right-arm Off Spin Bowler\n\t\nJordan Cox\n\t(Wk)\nRight-Handed Batsman\n\t\nJames Coles\nRight-Handed Batsman â¢ Left-arm Off Spin Bowler\n\t\nJacob Bethell\nLeft-Handed Batsman\n\t\nRehan Ahmed\nRight-arm Leg Spin Bowler\n\t\nSonny Baker\nRight-arm Fast Bowler"
+    "lineup": "Liam Dawson\nRight-Handed Batsman Ã¢ÂÂ¢ Left-arm Off Spin Bowler\n\t\nAdil Rashid\nRight-arm Leg Spin Bowler\n\t\nJos Buttler\n\t(Wk)\nRight-Handed Batsman\n\t\nJofra Archer\nRight-arm Fast Bowler\n\t\nLuke Wood\nLeft-arm Fast Medium Bowler\n\t\nSaqib Mahmood\nRight-arm Fast Medium Bowler\n\t\nSam Curran\nLeft-Handed Batsman Ã¢ÂÂ¢ Left-arm Medium Fast Bowler\n\t\nPhil Salt\n\t(Wk)\nRight-Handed Batsman\n\t\nJosh Tongue\nRight-arm Fast Medium Bowler\n\t\nHarry Brook\n\t(C)\nRight-Handed Batsman\n\t\nTom Banton\nRight-Handed Batsman\n\t\nWill Jacks\nRight-Handed Batsman Ã¢ÂÂ¢ Right-arm Off Spin Bowler\n\t\nJordan Cox\n\t(Wk)\nRight-Handed Batsman\n\t\nJames Coles\nRight-Handed Batsman Ã¢ÂÂ¢ Left-arm Off Spin Bowler\n\t\nJacob Bethell\nLeft-Handed Batsman\n\t\nRehan Ahmed\nRight-arm Leg Spin Bowler\n\t\nSonny Baker\nRight-arm Fast Bowler"
   },
   "info_sources": [
     {
       "name": "Link 1",
       "url": "https://ytvs-frame.pages.dev/frame?ref=https://ytvs-render.pages.dev/shaka?ref=ind1"
-    },
-    {
-      "name": "Link 2",
-      "url": "https://ytvs-frame.pages.dev/frame?ref=https://ytvs-render.pages.dev/shaka?ref=ind2"
-    },
-    {
-      "name": "Link 3",
-      "url": "https://ytvs-frame.pages.dev/frame?ref=https://ytvs-render.pages.dev/shaka?ref=ind3"
-    },
-    {
-      "name": "Link 4",
-      "url": "https://ytvs-frame.pages.dev/frame?ref=ind4"
-    },
-    {
-      "name": "Link 5",
-      "url": "https://ytvs-frame.pages.dev/frame?ref=ind5"
     }
   ]
 }
