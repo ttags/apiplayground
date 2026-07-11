@@ -1,270 +1,132 @@
 {
+  "bangla1": {
+    "type": "dash",
+    "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
+    "keyId": "290e09c837da78d5cd961978d390515c",
+    "key": "b748836c71e6a4ca68ef5b5652db6247"
+  },
+  "ind1": {
+    "type": "dash",
+    "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
+    "keyId": "290e09c837da78d5cd961978d390515c",
+    "key": "b748836c71e6a4ca68ef5b5652db6247"
+  },
   "fifa1": {
-    "type": "direct",
-    "url": "https://ww2.sporttsonline.click/channels/hd/hd2.php"
-  },
-  "fifa2": {
-    "type": "direct",
-    "url": "https://ww2.sporttsonline.click/channels/hd/hd6.php"
-  },
-  "fifa3": {
     "type": "dash",
     "url": "https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/fifa_ppv1/default/index.mpd",
     "keyId": "2c338a117d434ce4bbe3569231af90f1",
     "key": "a9633d901ee8a3f4f58ac314b5c5f4fb"
   },
-  "fifa4": {
+  "fifa2": {
     "type": "direct",
     "url": "https://cr7world.pages.dev/mpd/?id=wtv"
   },
-  "fifa5": {
+  "fifa3": {
     "type": "dash",
     "url": "https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-m6/cmaf_cenc00/dash-short-hd.mpd",
     "keyId": "433ffba670963e70857859a9dff4be04",
     "key": "51ede3a821229fe81e71282c8eff80e3"
   },
-  "fifa6": {
+  "fifa4": {
     "type": "dash",
-    "url": "https://dmbgaz4xf6jyh.cloudfront.net/live-stream-dai/69690cfcce0dc031830e7c1a/123a264b71764485bd49eca2d552cf33/d97743de3620a865848fff7a9de14dda1bf2409d/manifest.mpd?aid=688aae6d61c87d6274c05065&dnt=true&access_token=63ey9SOpQeHBRfWJYQLXQjelQc0QM1HXmlHp4iZrH8UCOCM8QtGIGg1sEEPJH0R0yXktUEXdLeB&uid=Knx65GY6UbaWSADZybEvf6m5MvqNIuNs&sid=bwRy9BgSc4RFeVhYh52hVIY8uPsJ4v4d&pid=A0xT1VnepBvKKqyeyRNtNkZBmHBrNNZM&ref=ditu.caracoltv.com&ext_pb=0&es=dmbgaz4xf6jyh.cloudfront.net&proto=https&pz=us&xr=us-east-2&manifestfilter=video_height:480-1080",
-    "keyId": "1c6bfd8d1cdd4df69ea5fc4dd2f025bb",
-    "key": "b6fd90027dac7a94a9461f8b2638cbb4"
+    "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/72sjo8hygl/out/v1/3079be34d72a4985852d299a02406a0c/cenc.mpd",
+    "keyId": "d185684e2330de5bea436daa094a5e86",
+    "key": "014f0116154f5bf0050e03a6b0a23157"
   },
-  "fifa7": {
-    "type": "direct",
-    "url": "https://cr7world.pages.dev/mpd/?id=goaltv"
-  },
-  "fifa8": {
-    "type": "direct",
-    "url": "https://hlsplayers.pages.dev/player3?url=https://live05.bfgrut.app/live/24561735.m3u8"
-  },
-  "fifa9": {
-    "type": "direct",
-    "url": "https://embedindia.st/embed/wc/2026-07-07/arg-egy/fox"
-  },
-  "fifa10": {
+  "fifa5": {
     "type": "dash",
     "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
     "keyId": "14eeabf30c14b7fbf3008c03099ce011",
     "key": "17d2ac8dbc5429bd70af3433aa12158d"
   },
+  "fifa6": {
+    "type": "direct",
+    "url": "https://ww2.sporttsonline.click/channels/hd/hd2.php"
+  },
+  "fifa7": {
+    "type": "direct",
+    "url": "https://ww2.sporttsonline.click/channels/hd/hd6.php"
+  },
+  "fifa8": {
+    "type": "dash",
+    "url": "https://dmbgaz4xf6jyh.cloudfront.net/live-stream-dai/69690cfcce0dc031830e7c1a/123a264b71764485bd49eca2d552cf33/d97743de3620a865848fff7a9de14dda1bf2409d/manifest.mpd?aid=688aae6d61c87d6274c05065&dnt=true&access_token=63ey9SOpQeHBRfWJYQLXQjelQc0QM1HXmlHp4iZrH8UCOCM8QtGIGg1sEEPJH0R0yXktUEXdLeB&uid=Knx65GY6UbaWSADZybEvf6m5MvqNIuNs&sid=bwRy9BgSc4RFeVhYh52hVIY8uPsJ4v4d&pid=A0xT1VnepBvKKqyeyRNtNkZBmHBrNNZM&ref=ditu.caracoltv.com&ext_pb=0&es=dmbgaz4xf6jyh.cloudfront.net&proto=https&pz=us&xr=us-east-2&manifestfilter=video_height:480-1080",
+    "keyId": "1c6bfd8d1cdd4df69ea5fc4dd2f025bb",
+    "key": "b6fd90027dac7a94a9461f8b2638cbb4"
+  },
+  "fifa9": {
+    "type": "direct",
+    "url": "https://cr7world.pages.dev/mpd/?id=goaltv"
+  },
+  "fifa10": {
+    "type": "direct",
+    "url": "https://hlsplayers.pages.dev/player3?url=https://live05.bfgrut.app/live/24561735.m3u8"
+  },
   "fifa11": {
+    "type": "direct",
+    "url": "https://embedindia.st/embed/wc/2026-07-07/arg-egy/fox"
+  },
+  "fifa12": {
     "type": "dash",
     "url": "https://otte-qw.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd",
     "keyId": "f6564ec2aee819046328a0e153be574d",
     "key": "ff46a8a1031eb27ef22576a077c98ab7"
   },
-  "fifa12": {
+  "fifa13": {
     "type": "direct",
     "url": "https://hlsplayers.pages.dev/mpd?url=https://estreams.tv.nej.cz/dash/CH_TVP_SPORT_Portable.ism/playlist.mpd"
   },
-  "fifa13": {
+  "fifa14": {
     "type": "dash",
     "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ubehitlwzo/out/v1/8e09c381a51f4366a19e979418112e8f/cenc.mpd",
     "keyId": "a7d11d37a1f7611ee88d4db880171f32",
     "key": "68f96d618b0b956b008c445896a25a79"
   },
-  "fifa14": {
+  "fifa15": {
     "type": "direct",
     "url": "https://hlsplayers.pages.dev/player3?url=https://live05.msdht.app/live/14830711.m3u8"
   },
-  "fifa15": {
+  "fifa16": {
     "type": "dash",
     "url": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd",
     "keyId": "ce7ab3022e753307997f58afe001bac4",
     "key": "72d631a66e635c60829a0fe7705516c1"
-  },
-  "fifa16": {
-    "type": "direct",
-    "url": "https://cr7world.pages.dev/shaka?id=mob1"
   },
   "fifa17": {
     "type": "direct",
-    "url": "https://cr7world.pages.dev/shaka?id=ios1"
+    "url": "https://cr7world.pages.dev/shaka?id=mob1"
   },
   "fifa18": {
     "type": "direct",
-    "url": "https://cr7world.pages.dev/shaka?id=ios2"
+    "url": "https://cr7world.pages.dev/shaka?id=ios1"
   },
   "fifa19": {
     "type": "direct",
-    "url": "https://cr7world.pages.dev/shakaa?id=rtb2"
+    "url": "https://cr7world.pages.dev/shaka?id=ios2"
   },
   "fifa20": {
+    "type": "direct",
+    "url": "https://cr7world.pages.dev/shakaa?id=rtb2"
+  },
+  "fifa21": {
     "type": "dash",
     "url": "https://ottlive.dishhome.com.np/protected/GgTOzZkB0RDJ74Ryniuo/dash/manifest.mpd",
     "keyId": "220d8978f3fd45b696137c5b94f7a264",
     "key": "7bfe13500edee4f837ec03a907896306"
   },
-  "fifa21": {
+  "fifa22": {
     "type": "direct",
     "url": "https://cr7world.pages.dev/shaka?id=TeamA3"
   },
-  "ind1": {
-    "type": "dash",
-    "url": "https://a166aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/clients/dash/enc/inpyms8ezu/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
-    "keyId": "065051b99bf5cf8d9a3bde5cbde6aaf9",
-    "key": "214bd176832872339ce184338320f9a2"
-  },
-  "ind2": {
-    "type": "dash",
-    "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tcgcz1g3fk/out/v1/33a4bce588914c258fd9300022b50846/cenc.mpd",
-    "keyId": "632b06f50e561ccfc3473ae057177d70",
-    "key": "1fd0877cfa85e2617ab00f14b4fb66fe"
-  },
-  "ind3": {
-    "type": "dash",
-    "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
-    "keyId": "290e09c837da78d5cd961978d390515c",
-    "key": "b748836c71e6a4ca68ef5b5652db6247"
-  },
-  "ind4": {
-    "type": "direct",
-    "url": "https://go.webcric.com/hindi.htm"
-  },
-  "ind5": {
-    "type": "direct",
-    "url": "https://go.webcric.com/frame2.htm"
-  },
-  "bangla1": {
-    "type": "dash",
-    "url": "https://a166aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/clients/dash/enc/inpyms8ezu/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
-    "keyId": "065051b99bf5cf8d9a3bde5cbde6aaf9",
-    "key": "214bd176832872339ce184338320f9a2"
-  },
-  "bangla2": {
-    "type": "dash",
-    "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
-    "keyId": "290e09c837da78d5cd961978d390515c",
-    "key": "b748836c71e6a4ca68ef5b5652db6247"
-  },
-  "bangla3": {
-    "type": "direct",
-    "url": "https://go.webcric.com/hindi.htm"
-  },
-  "bangla4": {
-    "type": "direct",
-    "url": "https://go.webcric.com/frame2.htm"
-  },
-  "fifai1": {
-    "type": "direct",
-    "url": "https://ww2.sporttsonline.click/channels/hd/hd2.php"
-  },
-  "fifai2": {
-    "type": "direct",
-    "url": "https://ww2.sporttsonline.click/channels/hd/hd6.php"
-  },
-  "fifai3": {
-    "type": "dash",
-    "url": "https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-m6/cmaf_cenc00/dash-short-hd.mpd",
-    "keyId": "433ffba670963e70857859a9dff4be04",
-    "key": "51ede3a821229fe81e71282c8eff80e3"
-  },
-  "fifai4": {
-    "type": "direct",
-    "url": "https://hlsplayers.pages.dev/mpd?url=https://estreams.tv.nej.cz/dash/CH_TVP_SPORT_Portable.ism/playlist.mpd"
-  },
-  "fifai5": {
-    "type": "dash",
-    "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ubehitlwzo/out/v1/8e09c381a51f4366a19e979418112e8f/cenc.mpd",
-    "keyId": "a7d11d37a1f7611ee88d4db880171f32",
-    "key": "68f96d618b0b956b008c445896a25a79"
-  },
-  "fifai6": {
-    "type": "direct",
-    "url": "https://hlsplayers.pages.dev/player3?url=https://live05.msdht.app/live/14830711.m3u8"
-  },
-  "fifai7": {
-    "type": "dash",
-    "url": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd",
-    "keyId": "ce7ab3022e753307997f58afe001bac4",
-    "key": "72d631a66e635c60829a0fe7705516c1"
-  },
-  "fifai8": {
-    "type": "direct",
-    "url": "https://cr7world.pages.dev/shaka?id=mob1"
-  },
-  "fifai9": {
-    "type": "direct",
-    "url": "https://cr7world.pages.dev/shaka?id=ios1"
-  },
-  "fifai10": {
-    "type": "direct",
-    "url": "https://cr7world.pages.dev/shaka?id=ios2"
-  },
-  "fifai11": {
-    "type": "direct",
-    "url": "https://cr7world.pages.dev/shakaa?id=rtb2"
-  },
-  "fifai12": {
-    "type": "dash",
-    "url": "https://ottlive.dishhome.com.np/protected/GgTOzZkB0RDJ74Ryniuo/dash/manifest.mpd",
-    "keyId": "220d8978f3fd45b696137c5b94f7a264",
-    "key": "7bfe13500edee4f837ec03a907896306"
-  },
-  "fifai13": {
-    "type": "direct",
-    "url": "https://ww2.sporttsonline.click/channels/hd/hd9.php"
-  },
-  "fifai14": {
-    "type": "direct",
-    "url": "https://ww2.sporttsonline.click/channels/hd/hd1.php"
-  },
   "nepal1": {
     "type": "dash",
-    "url": "https://a166aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/clients/dash/enc/inpyms8ezu/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
-    "keyId": "065051b99bf5cf8d9a3bde5cbde6aaf9",
-    "key": "214bd176832872339ce184338320f9a2"
-  },
-  "nepal2": {
-    "type": "dash",
     "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
     "keyId": "290e09c837da78d5cd961978d390515c",
     "key": "b748836c71e6a4ca68ef5b5652db6247"
-  },
-  "nepal3": {
-    "type": "direct",
-    "url": "https://streamfree.app/embed/cricket/cricketsky?quality=1080p"
-  },
-  "nepal4": {
-    "type": "dash",
-    "url": "https://dck1-fs-live.dtcdn.dazn.com/out/v1/814bffb9b389f652/d65feac5647949e6b45b2674d4715398/index.mpd",
-    "keyId": "01c9bbf8137e58378a5ead514998a7b4",
-    "key": "fb01e61809e80e5e93a889cd31daab22"
-  },
-  "nepal5": {
-    "type": "direct",
-    "url": "https://go.webcric.com/hindi.htm"
-  },
-  "nepal6": {
-    "type": "direct",
-    "url": "https://go.webcric.com/frame2.htm"
   },
   "nepalii1": {
-    "type": "hls",
-    "url": "https://a166aivottlinear.m3u8"
-  },
-  "nepalii2": {
     "type": "dash",
     "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
     "keyId": "290e09c837da78d5cd961978d390515c",
     "key": "b748836c71e6a4ca68ef5b5652db6247"
-  },
-  "nepalii3": {
-    "type": "direct",
-    "url": "https://streamfree.app/embed/cricket/cricketsky?quality=1080p"
-  },
-  "nepalii4": {
-    "type": "dash",
-    "url": "https://dck1-fs-live.dtcdn.dazn.com/out/v1/814bffb9b389f652/d65feac5647949e6b45b2674d4715398/index.mpd",
-    "keyId": "01c9bbf8137e58378a5ead514998a7b4",
-    "key": "fb01e61809e80e5e93a889cd31daab22"
-  },
-  "nepalii5": {
-    "type": "direct",
-    "url": "https://go.webcric.com/hindi.htm"
-  },
-  "nepalii6": {
-    "type": "direct",
-    "url": "https://go.webcric.com/frame2.htm"
   }
 }
