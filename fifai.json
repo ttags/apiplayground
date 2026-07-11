@@ -1,14 +1,14 @@
 {
   "match": {
-    "title": "France vs Morocco",
-    "date": "10 JUL",
-    "time": "01:45 AM NST",
-    "end_time": "05:15 AM NST",
-    "stadium": "Boston Stadium, Foxborough",
+    "title": "Argentina vs Switzerland",
+    "date": "12 JUL",
+    "time": "06:45 AM NST",
+    "end_time": "10:15 AM NST",
+    "stadium": "Kansas City Stadium, Kansas City",
     "league": "FIFA World Cup 2026",
     "round": "Quarter Finals",
-    "broadcaster": "ONO TV",
-    "banner_image": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/z3JEQB3coEAGLCJBEUzQ2A_96x96.png|https://ssl.gstatic.com/onebox/media/sports/logos/optimized/I3gt2Ew39ux3GGdZ-4JE3g_96x96.png",
+    "broadcaster": "ONO TV, yonotvs.com, onotv.net",
+    "banner_image": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/1xBWyjjkA6vEWopPK3lIPA_96x96.png|https://ssl.gstatic.com/onebox/media/sports/logos/optimized/1hy9ek4dOIffYULM6k1fqg_96x96.png",
     "lineup_published": true,
     "win_probability": {
       "home": 71.8,
@@ -16,69 +16,12 @@
     }
   },
   "team1": {
-    "name": "France",
-    "lineup": "Lineup will be published at the match time."
+    "name": "Argentina",
+    "lineup": "Lineup will be published at the match time. The core squad is as follow: \nGoalkeeper: Emiliano Martínez (#23)\nDefenders: Nahuel Molina (#26), Cristian Romero (#13), Lisandro Martínez (#6), Nicolás Tagliafico (#3)\nMidfielders: Rodrigo De Paul (#7), Enzo Fernández (#24), Alexis Mac Allister (#20), Giovani Lo Celso (#11)\nForwards: Lionel Messi (#10) (Captain), Lautaro Martínez (#22)"
   },
   "team2": {
-    "name": "Morocco",
-    "lineup": "Lineup will be published at the match time."
+    "name": "Switzerland",
+    "lineup": "Lineup will be published at the match time. The core team is: \nGoalkeeper: Gregor Kobel\nDefenders: Denis Zakaria, Nico Elvedi, Manuel Akanji, Ricardo Rodríguez\nMidfielders: Remo Freuler, Granit Xhaka, Fabian Rieder, Ardon Jashari\nForwards: Dan Ndoye, Breel Embolo"
   },
-  "info_sources": [
-    {
-      "name": "Link 1",
-      "url": "https://ytvs-frame.pages.dev/frame?ref=fifai1"
-    },
-    {
-      "name": "Link 2",
-      "url": "https://ytvs-frame.pages.dev/frame?ref=fifai2"
-    },
-    {
-      "name": "Link 3",
-      "url": "https://ytvs-frame.pages.dev/frame?ref=https://ytvs-render.pages.dev/shaka?ref=fifai3"
-    },
-    {
-      "name": "Link 4",
-      "url": "https://ytvs-frame.pages.dev/frame?ref=fifai4"
-    },
-    {
-      "name": "Link 5",
-      "url": "https://ytvs-frame.pages.dev/frame?ref=https://ytvs-render.pages.dev/shaka?ref=fifai5"
-    },
-    {
-      "name": "Link 6",
-      "url": "https://ytvs-frame.pages.dev/frame?ref=fifai6"
-    },
-    {
-      "name": "Link 7",
-      "url": "https://ytvs-frame.pages.dev/frame?ref=https://ytvs-render.pages.dev/shaka?ref=fifai7"
-    },
-    {
-      "name": "Link 8",
-      "url": "https://ytvs-frame.pages.dev/frame?ref=fifai8"
-    },
-    {
-      "name": "Link 9",
-      "url": "https://ytvs-frame.pages.dev/frame?ref=fifai9"
-    },
-    {
-      "name": "Link 10",
-      "url": "https://ytvs-frame.pages.dev/frame?ref=fifai10"
-    },
-    {
-      "name": "Link 11",
-      "url": "https://ytvs-frame.pages.dev/frame?ref=fifai11"
-    },
-    {
-      "name": "Link 12",
-      "url": "https://ytvs-frame.pages.dev/frame?ref=https://ytvs-render.pages.dev/shaka?ref=fifai12"
-    },
-    {
-      "name": "Link 13",
-      "url": "https://ytvs-frame.pages.dev/frame?ref=fifai13"
-    },
-    {
-      "name": "Link 14",
-      "url": "https://ytvs-frame.pages.dev/frame?ref=fifai14"
-    }
-  ]
+  "info_sources": []
 }
