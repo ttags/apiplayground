@@ -17,11 +17,11 @@
   },
   "team1": {
     "name": "Argentina",
-    "lineup": "Lineup will be published at the match time. The core squad is as follow: \nGoalkeeper: Emiliano Martínez (#23)\nDefenders: Nahuel Molina (#26), Cristian Romero (#13), Lisandro Martínez (#6), Nicolás Tagliafico (#3)\nMidfielders: Rodrigo De Paul (#7), Enzo Fernández (#24), Alexis Mac Allister (#20), Giovani Lo Celso (#11)\nForwards: Lionel Messi (#10) (Captain), Lautaro Martínez (#22)"
+    "lineup": "Lineup will be published at the match time. The core squad is as follow: \nGoalkeeper: Emiliano MartÃ­nez (#23)\nDefenders: Nahuel Molina (#26), Cristian Romero (#13), Lisandro MartÃ­nez (#6), NicolÃ¡s Tagliafico (#3)\nMidfielders: Rodrigo De Paul (#7), Enzo FernÃ¡ndez (#24), Alexis Mac Allister (#20), Giovani Lo Celso (#11)\nForwards: Lionel Messi (#10) (Captain), Lautaro MartÃ­nez (#22)"
   },
   "team2": {
     "name": "England",
-    "lineup": "Liam Dawson\nRight-Handed Batsman Ã¢ÂÂ¢ Left-arm Off Spin Bowler\n\t\nAdil Rashid\nRight-arm Leg Spin Bowler\n\t\nJos Buttler\n\t(Wk)\nRight-Handed Batsman\n\t\nJofra Archer\nRight-arm Fast Bowler\n\t\nLuke Wood\nLeft-arm Fast Medium Bowler\n\t\nSaqib Mahmood\nRight-arm Fast Medium Bowler\n\t\nSam Curran\nLeft-Handed Batsman Ã¢ÂÂ¢ Left-arm Medium Fast Bowler\n\t\nPhil Salt\n\t(Wk)\nRight-Handed Batsman\n\t\nJosh Tongue\nRight-arm Fast Medium Bowler\n\t\nHarry Brook\n\t(C)\nRight-Handed Batsman\n\t\nTom Banton\nRight-Handed Batsman\n\t\nWill Jacks\nRight-Handed Batsman Ã¢ÂÂ¢ Right-arm Off Spin Bowler\n\t\nJordan Cox\n\t(Wk)\nRight-Handed Batsman\n\t\nJames Coles\nRight-Handed Batsman Ã¢ÂÂ¢ Left-arm Off Spin Bowler\n\t\nJacob Bethell\nLeft-Handed Batsman\n\t\nRehan Ahmed\nRight-arm Leg Spin Bowler\n\t\nSonny Baker\nRight-arm Fast Bowler"
+    "lineup": "Liam Dawson\nRight-Handed Batsman ÃÂ¢ÃÂÃÂ¢ Left-arm Off Spin Bowler\n\t\nAdil Rashid\nRight-arm Leg Spin Bowler\n\t\nJos Buttler\n\t(Wk)\nRight-Handed Batsman\n\t\nJofra Archer\nRight-arm Fast Bowler\n\t\nLuke Wood\nLeft-arm Fast Medium Bowler\n\t\nSaqib Mahmood\nRight-arm Fast Medium Bowler\n\t\nSam Curran\nLeft-Handed Batsman ÃÂ¢ÃÂÃÂ¢ Left-arm Medium Fast Bowler\n\t\nPhil Salt\n\t(Wk)\nRight-Handed Batsman\n\t\nJosh Tongue\nRight-arm Fast Medium Bowler\n\t\nHarry Brook\n\t(C)\nRight-Handed Batsman\n\t\nTom Banton\nRight-Handed Batsman\n\t\nWill Jacks\nRight-Handed Batsman ÃÂ¢ÃÂÃÂ¢ Right-arm Off Spin Bowler\n\t\nJordan Cox\n\t(Wk)\nRight-Handed Batsman\n\t\nJames Coles\nRight-Handed Batsman ÃÂ¢ÃÂÃÂ¢ Left-arm Off Spin Bowler\n\t\nJacob Bethell\nLeft-Handed Batsman\n\t\nRehan Ahmed\nRight-arm Leg Spin Bowler\n\t\nSonny Baker\nRight-arm Fast Bowler"
   },
   "info_sources": [
     {
@@ -34,7 +34,7 @@
     },
     {
       "name": "Link 3",
-      "url": "https://ytvs-frame.pages.dev/frame?ref=https://ytvs-render.pages.dev/shaka?ref=fifa3"
+      "url": "https://ytvs-frame.pages.dev/frame?ref=fifa3"
     },
     {
       "name": "Link 4",
@@ -42,103 +42,11 @@
     },
     {
       "name": "Link 5",
-      "url": "https://ytvs-frame.pages.dev/frame?ref=fifa5"
+      "url": "https://ytvs-frame.pages.dev/frame?ref=https://ytvs-render.pages.dev/shaka?ref=fifa5"
     },
     {
       "name": "Link 6",
       "url": "https://ytvs-frame.pages.dev/frame?ref=https://ytvs-render.pages.dev/shaka?ref=fifa6"
-    },
-    {
-      "name": "Link 7",
-      "url": "https://ytvs-frame.pages.dev/frame?ref=fifa7"
-    },
-    {
-      "name": "Link 8",
-      "url": "https://ytvs-frame.pages.dev/frame?ref=https://ytvs-render.pages.dev/shaka?ref=fifa8"
-    },
-    {
-      "name": "Link 9",
-      "url": "https://ytvs-frame.pages.dev/frame?ref=https://ytvs-render.pages.dev/shaka?ref=fifa9"
-    },
-    {
-      "name": "Link 10",
-      "url": "https://ytvs-frame.pages.dev/frame?ref=https://ytvs-render.pages.dev/shaka?ref=fifa10"
-    },
-    {
-      "name": "Link 11",
-      "url": "https://ytvs-frame.pages.dev/frame?ref=https://ytvs-render.pages.dev/shaka?ref=fifa11"
-    },
-    {
-      "name": "Link 12",
-      "url": "https://ytvs-frame.pages.dev/frame?ref=https://ytvs-render.pages.dev/shaka?ref=fifa12"
-    },
-    {
-      "name": "Link 13",
-      "url": "https://ytvs-frame.pages.dev/frame?ref=https://ytvs-render.pages.dev/shaka?ref=fifa13"
-    },
-    {
-      "name": "Link 14",
-      "url": "https://ytvs-frame.pages.dev/frame?ref=https://ytvs-render.pages.dev/shaka?ref=fifa14"
-    },
-    {
-      "name": "Link 15",
-      "url": "https://ytvs-frame.pages.dev/frame?ref=https://ytvs-render.pages.dev/shaka?ref=fifa15"
-    },
-    {
-      "name": "Link 16",
-      "url": "https://ytvs-frame.pages.dev/frame?ref=fifa16"
-    },
-    {
-      "name": "Link 17",
-      "url": "https://ytvs-frame.pages.dev/frame?ref=fifa17"
-    },
-    {
-      "name": "Link 18",
-      "url": "https://ytvs-frame.pages.dev/frame?ref=fifa18"
-    },
-    {
-      "name": "Link 19",
-      "url": "https://ytvs-frame.pages.dev/frame?ref=https://ytvs-render.pages.dev/shaka?ref=fifa19"
-    },
-    {
-      "name": "Link 20",
-      "url": "https://ytvs-frame.pages.dev/frame?ref=fifa20"
-    },
-    {
-      "name": "Link 21",
-      "url": "https://ytvs-frame.pages.dev/frame?ref=https://ytvs-render.pages.dev/shaka?ref=fifa21"
-    },
-    {
-      "name": "Link 22",
-      "url": "https://ytvs-frame.pages.dev/frame?ref=fifa22"
-    },
-    {
-      "name": "Link 23",
-      "url": "https://ytvs-frame.pages.dev/frame?ref=https://ytvs-render.pages.dev/shaka?ref=fifa23"
-    },
-    {
-      "name": "Link 24",
-      "url": "https://ytvs-frame.pages.dev/frame?ref=fifa24"
-    },
-    {
-      "name": "Link 25",
-      "url": "https://ytvs-frame.pages.dev/frame?ref=fifa25"
-    },
-    {
-      "name": "Link 26",
-      "url": "https://ytvs-frame.pages.dev/frame?ref=fifa26"
-    },
-    {
-      "name": "Link 27",
-      "url": "https://ytvs-frame.pages.dev/frame?ref=fifa27"
-    },
-    {
-      "name": "Link 28",
-      "url": "https://ytvs-frame.pages.dev/frame?ref=https://ytvs-render.pages.dev/shaka?ref=fifa28"
-    },
-    {
-      "name": "Link 29",
-      "url": "https://ytvs-frame.pages.dev/frame?ref=fifa29"
     }
   ]
 }
