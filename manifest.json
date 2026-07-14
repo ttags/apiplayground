@@ -5,6 +5,32 @@
     "keyId": "290e09c837da78d5cd961978d390515c",
     "key": "b748836c71e6a4ca68ef5b5652db6247"
   },
+  "football1": {
+    "type": "direct",
+    "url": "https://v4.sportsonlinne.click/channels/hd/hd11.php"
+  },
+  "football2": {
+    "type": "direct",
+    "url": "https://cr7player.pages.dev/b64?url=aHR0cHM6Ly9zYi1wdWxsLnN0cmFtbGl2ZS5jb20vTGl2ZS9NOTkwNC5tM3U4"
+  },
+  "football3": {
+    "type": "direct",
+    "url": "https://v4.sportsonlinne.click/channels/hd/hd6.php"
+  },
+  "football4": {
+    "type": "direct",
+    "url": "https://v4.sportsonlinne.click/channels/hd/hd1.php"
+  },
+  "football5": {
+    "type": "direct",
+    "url": "https://v4.sportsonlinne.click/channels/hd/hd2.php"
+  },
+  "football6": {
+    "type": "dash",
+    "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/72sjo8hygl/out/v1/3079be34d72a4985852d299a02406a0c/cenc.mpd",
+    "keyId": "d185684e2330de5bea436daa094a5e86",
+    "key": "014f0116154f5bf0050e03a6b0a23157"
+  },
   "bangla1": {
     "type": "dash",
     "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
@@ -20,134 +46,22 @@
     "url": "https://v4.sportsonlinne.click/channels/hd/hd6.php"
   },
   "fifa3": {
-    "type": "hls",
-    "url": "https://cp11.adabmedia.com/hls2/sport.m3u8"
-  },
-  "fifa4": {
     "type": "direct",
     "url": "https://v4.sportsonlinne.click/channels/hd/hd1.php"
   },
-  "fifa5": {
+  "fifa4": {
     "type": "direct",
     "url": "https://v4.sportsonlinne.click/channels/hd/hd2.php"
   },
-  "fifa6": {
-    "type": "dash",
-    "url": "https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/fifa_ppv1/default/index.mpd",
-    "keyId": "2c338a117d434ce4bbe3569231af90f1",
-    "key": "a9633d901ee8a3f4f58ac314b5c5f4fb"
-  },
-  "fifa7": {
-    "type": "direct",
-    "url": "https://cr7world.pages.dev/mpd/?id=wtv"
-  },
-  "fifa8": {
-    "type": "dash",
-    "url": "https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-m6/cmaf_cenc00/dash-short-hd.mpd",
-    "keyId": "433ffba670963e70857859a9dff4be04",
-    "key": "51ede3a821229fe81e71282c8eff80e3"
-  },
-  "fifa9": {
+  "fifa5": {
     "type": "dash",
     "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/72sjo8hygl/out/v1/3079be34d72a4985852d299a02406a0c/cenc.mpd",
     "keyId": "d185684e2330de5bea436daa094a5e86",
     "key": "014f0116154f5bf0050e03a6b0a23157"
   },
-  "fifa10": {
-    "type": "dash",
-    "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/x0srg3jjpz/out/v1/f779c49314394d61886d63f58d9d52e4/cenc.mpd",
-    "keyId": "4f4c3a9912ea752e88f4497864a1bc8b",
-    "key": "278128004fe8c6ffb2cd2a0c154a241a"
-  },
-  "fifa11": {
-    "type": "dash",
-    "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/c7di7zkdor/out/v1/f7d5b356e048494a8325563e8916d50b/cenc.mpd",
-    "keyId": "745cd6ec34a58f2f7ac2af35dc3da6d2",
-    "key": "ae008f1e47e6567fe4201a6ff8f1ae54"
-  },
-  "fifa12": {
+  "fifa6": {
     "type": "hls",
-    "url": "https://live05.grita.app/live/78905744.m3u8"
-  },
-  "fifa13": {
-    "type": "hls",
-    "url": "https://live05.grita.app/live/24561735.m3u8"
-  },
-  "fifa14": {
-    "type": "dash",
-    "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
-    "keyId": "14eeabf30c14b7fbf3008c03099ce011",
-    "key": "17d2ac8dbc5429bd70af3433aa12158d"
-  },
-  "fifa15": {
-    "type": "dash",
-    "url": "https://dmbgaz4xf6jyh.cloudfront.net/live-stream-dai/69690cfcce0dc031830e7c1a/123a264b71764485bd49eca2d552cf33/d97743de3620a865848fff7a9de14dda1bf2409d/manifest.mpd?aid=688aae6d61c87d6274c05065&dnt=true&access_token=63ey9SOpQeHBRfWJYQLXQjelQc0QM1HXmlHp4iZrH8UCOCM8QtGIGg1sEEPJH0R0yXktUEXdLeB&uid=Knx65GY6UbaWSADZybEvf6m5MvqNIuNs&sid=bwRy9BgSc4RFeVhYh52hVIY8uPsJ4v4d&pid=A0xT1VnepBvKKqyeyRNtNkZBmHBrNNZM&ref=ditu.caracoltv.com&ext_pb=0&es=dmbgaz4xf6jyh.cloudfront.net&proto=https&pz=us&xr=us-east-2&manifestfilter=video_height:480-1080",
-    "keyId": "1c6bfd8d1cdd4df69ea5fc4dd2f025bb",
-    "key": "b6fd90027dac7a94a9461f8b2638cbb4"
-  },
-  "fifa16": {
-    "type": "direct",
-    "url": "https://cr7world.pages.dev/mpd/?id=goaltv"
-  },
-  "fifa17": {
-    "type": "direct",
-    "url": "https://hlsplayers.pages.dev/player3?url=https://live05.bfgrut.app/live/24561735.m3u8"
-  },
-  "fifa18": {
-    "type": "direct",
-    "url": "https://embedindia.st/embed/wc/2026-07-07/arg-egy/fox"
-  },
-  "fifa19": {
-    "type": "dash",
-    "url": "https://otte-qw.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd",
-    "keyId": "f6564ec2aee819046328a0e153be574d",
-    "key": "ff46a8a1031eb27ef22576a077c98ab7"
-  },
-  "fifa20": {
-    "type": "direct",
-    "url": "https://hlsplayers.pages.dev/mpd?url=https://estreams.tv.nej.cz/dash/CH_TVP_SPORT_Portable.ism/playlist.mpd"
-  },
-  "fifa21": {
-    "type": "dash",
-    "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ubehitlwzo/out/v1/8e09c381a51f4366a19e979418112e8f/cenc.mpd",
-    "keyId": "a7d11d37a1f7611ee88d4db880171f32",
-    "key": "68f96d618b0b956b008c445896a25a79"
-  },
-  "fifa22": {
-    "type": "direct",
-    "url": "https://hlsplayers.pages.dev/player3?url=https://live05.msdht.app/live/14830711.m3u8"
-  },
-  "fifa23": {
-    "type": "dash",
-    "url": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd",
-    "keyId": "ce7ab3022e753307997f58afe001bac4",
-    "key": "72d631a66e635c60829a0fe7705516c1"
-  },
-  "fifa24": {
-    "type": "direct",
-    "url": "https://cr7world.pages.dev/shaka?id=mob1"
-  },
-  "fifa25": {
-    "type": "direct",
-    "url": "https://cr7world.pages.dev/shaka?id=ios1"
-  },
-  "fifa26": {
-    "type": "direct",
-    "url": "https://cr7world.pages.dev/shaka?id=ios2"
-  },
-  "fifa27": {
-    "type": "direct",
-    "url": "https://cr7world.pages.dev/shakaa?id=rtb2"
-  },
-  "fifa28": {
-    "type": "dash",
-    "url": "https://ottlive.dishhome.com.np/protected/GgTOzZkB0RDJ74Ryniuo/dash/manifest.mpd",
-    "keyId": "220d8978f3fd45b696137c5b94f7a264",
-    "key": "7bfe13500edee4f837ec03a907896306"
-  },
-  "fifa29": {
-    "type": "direct",
-    "url": "https://cr7world.pages.dev/shaka?id=TeamA3"
+    "url": "https://shiva.indianservers.st/secure/mAOPOjgLhvIIlShHbBObKvDnZkiqSTic/1784044800/1784071800/itv1/index.m3u8"
   },
   "nepal1": {
     "type": "dash",
@@ -156,6 +70,10 @@
     "key": "b748836c71e6a4ca68ef5b5652db6247"
   },
   "nepalii1": {
+    "type": "direct",
+    "url": "https://v4.sportsonlinne.click/channels/hd/hd2.php"
+  },
+  "nepalii2": {
     "type": "dash",
     "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
     "keyId": "290e09c837da78d5cd961978d390515c",
