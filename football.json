@@ -17,11 +17,36 @@
   },
   "team1": {
     "name": "France",
-    "lineup": "France (4-2-3-1): Mike Maignan (GK), Jules Koundé, Dayot Upamecano, William Saliba, Theo Hernández, Manu Koné, Adrien Rabiot, Ousmane Dembélé, Michael Olise, Désiré Doué, Kylian Mbappé."
+    "lineup": "France (4-2-3-1): Mike Maignan (GK), Jules KoundÃ©, Dayot Upamecano, William Saliba, Theo HernÃ¡ndez, Manu KonÃ©, Adrien Rabiot, Ousmane DembÃ©lÃ©, Michael Olise, DÃ©sirÃ© DouÃ©, Kylian MbappÃ©."
   },
   "team2": {
     "name": "Spain",
-    "lineup": "Spain (4-2-3-1): Unai Simón (GK), Pedro Porro, Pau Cubarsí, Aymeric Laporte, Marc Cucurella, Rodri, Fabián Ruiz, Lamine Yamal, Dani Olmo, Álex Baena, Mikel Oyarzabal."
+    "lineup": "Spain (4-2-3-1): Unai SimÃ³n (GK), Pedro Porro, Pau CubarsÃ­, Aymeric Laporte, Marc Cucurella, Rodri, FabiÃ¡n Ruiz, Lamine Yamal, Dani Olmo, Ãlex Baena, Mikel Oyarzabal."
   },
-  "info_sources": []
+  "info_sources": [
+    {
+      "name": "Link 1",
+      "url": "https://ytvs-frame.pages.dev/frame?ref=football1"
+    },
+    {
+      "name": "Link 2",
+      "url": "https://ytvs-frame.pages.dev/frame?ref=football2"
+    },
+    {
+      "name": "Link 3",
+      "url": "https://ytvs-frame.pages.dev/frame?ref=football3"
+    },
+    {
+      "name": "Link 4",
+      "url": "https://ytvs-frame.pages.dev/frame?ref=football4"
+    },
+    {
+      "name": "Link 5",
+      "url": "https://ytvs-frame.pages.dev/frame?ref=football5"
+    },
+    {
+      "name": "Link 6",
+      "url": "https://ytvs-frame.pages.dev/frame?ref=https://ytvs-render.pages.dev/shaka?ref=football6"
+    }
+  ]
 }
