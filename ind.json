@@ -1,12 +1,12 @@
 {
   "match": {
     "title": "India vs England",
-    "date": "11 JUL",
-    "time": "07:15 PM NST",
-    "end_time": "11:15 PM NST",
-    "stadium": "Trent Bridge, West Bridgford",
-    "league": "T20 Cricket",
-    "round": "Last Round",
+    "date": "14 JUL",
+    "time": "03:15 PM NST",
+    "end_time": "11:45 PM NST",
+    "stadium": "Edgbaston, Birmingham",
+    "league": "ODI Cricket",
+    "round": "Triseries Round",
     "broadcaster": "ONO TV, yonotvs.com, onotv.net",
     "banner_image": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/mlXOOB9HXxLpoeS2dHSgGA_96x96.png|https://ssl.gstatic.com/onebox/media/sports/logos/optimized/DTqIL8Ba3KIuxGkpXw5ayA_96x96.png",
     "lineup_published": true,
