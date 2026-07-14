@@ -1,18 +1,18 @@
 {
   "match": {
     "title": "Bangladesh vs Zimbabwe",
-    "date": "11 JUL",
-    "time": "01:15 PM NST",
-    "end_time": "09:45 PM NST",
-    "stadium": "Harare Sports Club, Harare",
-    "league": "ODI",
-    "round": "ODI Series",
+    "date": "15 JUL",
+    "time": "04:15 PM NST",
+    "end_time": "08:15 PM NST",
+    "stadium": "Queens Sports Club, Bulawayo",
+    "league": "T20",
+    "round": "T20 Series",
     "broadcaster": "ONO TV, yonotvs.com, onotv.net",
     "banner_image": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/uTQstsRqQKZC-VUZWaNi0w_96x96.png|https://ssl.gstatic.com/onebox/media/sports/logos/optimized/8bI8VibVGa2HtxKN_SZE6g_96x96.png",
     "lineup_published": true,
     "win_probability": {
-      "home": 60,
-      "away": 40
+      "home": 50.5,
+      "away": 49.5
     }
   },
   "team1": {
