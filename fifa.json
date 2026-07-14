@@ -1,27 +1,27 @@
 {
   "match": {
-    "title": "Norway vs England",
-    "date": "12 JUL",
-    "time": "02:45 AM NST",
-    "end_time": "06:15 AM NST",
-    "stadium": "Miami Stadium, Miami Gardens",
+    "title": "Argentina vs England",
+    "date": "16 JUL",
+    "time": "12:45 AM NST",
+    "end_time": "04:15 AM NST",
+    "stadium": "Atlanta Stadium, Atlanta",
     "league": "FIFA World Cup 2026",
-    "round": "Quarter Finals",
+    "round": "Semi Finals",
     "broadcaster": "ONO TV, yonotvs.com, onotv.net",
-    "banner_image": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/lLDKax72TPgU_Hcj0W-DOg_96x96.png|https://ssl.gstatic.com/onebox/media/sports/logos/optimized/DTqIL8Ba3KIuxGkpXw5ayA_96x96.png",
+    "banner_image": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/1xBWyjjkA6vEWopPK3lIPA_96x96.png|https://ssl.gstatic.com/onebox/media/sports/logos/optimized/DTqIL8Ba3KIuxGkpXw5ayA_96x96.png",
     "lineup_published": true,
     "win_probability": {
-      "home": 20.4,
-      "away": 79.6
+      "home": 40.6,
+      "away": 59.4
     }
   },
   "team1": {
-    "name": "Norway",
-    "lineup": "Lineup will be published at the match time. The core XI team is: \nGoalkeeper: Ørjan Nyland\nDefenders: Julian Ryerson, Kristoffer Ajer, Torbjørn Heggem, David Møller Wolfe\nMidfielders: Martin Ødegaard (C), Sander Berge, Patrick Berg\nForwards: Andreas Schjelderup, Erling Haaland, Antonio Nusa"
+    "name": "Argentina",
+    "lineup": "Lineup will be published at the match time. The core squad is as follow: \nGoalkeeper: Emiliano Martínez (#23)\nDefenders: Nahuel Molina (#26), Cristian Romero (#13), Lisandro Martínez (#6), Nicolás Tagliafico (#3)\nMidfielders: Rodrigo De Paul (#7), Enzo Fernández (#24), Alexis Mac Allister (#20), Giovani Lo Celso (#11)\nForwards: Lionel Messi (#10) (Captain), Lautaro Martínez (#22)"
   },
   "team2": {
     "name": "England",
-    "lineup": "Lineup will be published at the match time. The playing 11 members are: \nEngland's starting XI (4-2-3-1) for their World Cup quarter-final match against Norway at Hard Rock Stadium in Miami on July 11, 2026, is: Pickford (GK); James (RB), Konsa (CB), Guehi (CB), O'Reilly (LB); Anderson, Rice (CM); Saka (RW), Bellingham (AM), Gordon (LW); Kane (ST)."
+    "lineup": "Liam Dawson\nRight-Handed Batsman Ã¢ÂÂ¢ Left-arm Off Spin Bowler\n\t\nAdil Rashid\nRight-arm Leg Spin Bowler\n\t\nJos Buttler\n\t(Wk)\nRight-Handed Batsman\n\t\nJofra Archer\nRight-arm Fast Bowler\n\t\nLuke Wood\nLeft-arm Fast Medium Bowler\n\t\nSaqib Mahmood\nRight-arm Fast Medium Bowler\n\t\nSam Curran\nLeft-Handed Batsman Ã¢ÂÂ¢ Left-arm Medium Fast Bowler\n\t\nPhil Salt\n\t(Wk)\nRight-Handed Batsman\n\t\nJosh Tongue\nRight-arm Fast Medium Bowler\n\t\nHarry Brook\n\t(C)\nRight-Handed Batsman\n\t\nTom Banton\nRight-Handed Batsman\n\t\nWill Jacks\nRight-Handed Batsman Ã¢ÂÂ¢ Right-arm Off Spin Bowler\n\t\nJordan Cox\n\t(Wk)\nRight-Handed Batsman\n\t\nJames Coles\nRight-Handed Batsman Ã¢ÂÂ¢ Left-arm Off Spin Bowler\n\t\nJacob Bethell\nLeft-Handed Batsman\n\t\nRehan Ahmed\nRight-arm Leg Spin Bowler\n\t\nSonny Baker\nRight-arm Fast Bowler"
   },
   "info_sources": [
     {
