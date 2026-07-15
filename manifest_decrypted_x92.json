@@ -1,0 +1,52 @@
+{
+  "ind1": {
+    "type": "dash",
+    "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
+    "keyId": "290e09c837da78d5cd961978d390515c",
+    "key": "b748836c71e6a4ca68ef5b5652db6247"
+  },
+  "bangla1": {
+    "type": "dash",
+    "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
+    "keyId": "290e09c837da78d5cd961978d390515c",
+    "key": "b748836c71e6a4ca68ef5b5652db6247"
+  },
+  "fifa1": {
+    "type": "direct",
+    "url": "https://v4.sportsonlinne.click/channels/hd/hd11.php"
+  },
+  "fifa2": {
+    "type": "direct",
+    "url": "https://v4.sportsonlinne.click/channels/hd/hd6.php"
+  },
+  "fifa3": {
+    "type": "direct",
+    "url": "https://v4.sportsonlinne.click/channels/hd/hd1.php"
+  },
+  "fifa4": {
+    "type": "direct",
+    "url": "https://v4.sportsonlinne.click/channels/hd/hd2.php"
+  },
+  "fifa5": {
+    "type": "dash",
+    "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/72sjo8hygl/out/v1/3079be34d72a4985852d299a02406a0c/cenc.mpd",
+    "keyId": "d185684e2330de5bea436daa094a5e86",
+    "key": "014f0116154f5bf0050e03a6b0a23157"
+  },
+  "nepal1": {
+    "type": "dash",
+    "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
+    "keyId": "290e09c837da78d5cd961978d390515c",
+    "key": "b748836c71e6a4ca68ef5b5652db6247"
+  },
+  "nepalii1": {
+    "type": "direct",
+    "url": "https://v4.sportsonlinne.click/channels/hd/hd2.php"
+  },
+  "nepalii2": {
+    "type": "dash",
+    "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
+    "keyId": "290e09c837da78d5cd961978d390515c",
+    "key": "b748836c71e6a4ca68ef5b5652db6247"
+  }
+}
