@@ -17,11 +17,11 @@
   },
   "team1": {
     "name": "Argentina",
-    "lineup": "Lineup will be published at the match time. The core squad is as follow: \nGoalkeeper: Emiliano MartÃ­nez (#23)\nDefenders: Nahuel Molina (#26), Cristian Romero (#13), Lisandro MartÃ­nez (#6), NicolÃ¡s Tagliafico (#3)\nMidfielders: Rodrigo De Paul (#7), Enzo FernÃ¡ndez (#24), Alexis Mac Allister (#20), Giovani Lo Celso (#11)\nForwards: Lionel Messi (#10) (Captain), Lautaro MartÃ­nez (#22)"
+    "lineup": "Lineup will be published at the match time. The core squad is as follow: \nGoalkeeper: Emiliano Mart\u00c3\u00adnez (#23)\nDefenders: Nahuel Molina (#26), Cristian Romero (#13), Lisandro Mart\u00c3\u00adnez (#6), Nicol\u00c3\u00a1s Tagliafico (#3)\nMidfielders: Rodrigo De Paul (#7), Enzo Fern\u00c3\u00a1ndez (#24), Alexis Mac Allister (#20), Giovani Lo Celso (#11)\nForwards: Lionel Messi (#10) (Captain), Lautaro Mart\u00c3\u00adnez (#22)"
   },
   "team2": {
     "name": "England",
-    "lineup": "Liam Dawson\nRight-Handed Batsman ÃÂ¢ÃÂÃÂ¢ Left-arm Off Spin Bowler\n\t\nAdil Rashid\nRight-arm Leg Spin Bowler\n\t\nJos Buttler\n\t(Wk)\nRight-Handed Batsman\n\t\nJofra Archer\nRight-arm Fast Bowler\n\t\nLuke Wood\nLeft-arm Fast Medium Bowler\n\t\nSaqib Mahmood\nRight-arm Fast Medium Bowler\n\t\nSam Curran\nLeft-Handed Batsman ÃÂ¢ÃÂÃÂ¢ Left-arm Medium Fast Bowler\n\t\nPhil Salt\n\t(Wk)\nRight-Handed Batsman\n\t\nJosh Tongue\nRight-arm Fast Medium Bowler\n\t\nHarry Brook\n\t(C)\nRight-Handed Batsman\n\t\nTom Banton\nRight-Handed Batsman\n\t\nWill Jacks\nRight-Handed Batsman ÃÂ¢ÃÂÃÂ¢ Right-arm Off Spin Bowler\n\t\nJordan Cox\n\t(Wk)\nRight-Handed Batsman\n\t\nJames Coles\nRight-Handed Batsman ÃÂ¢ÃÂÃÂ¢ Left-arm Off Spin Bowler\n\t\nJacob Bethell\nLeft-Handed Batsman\n\t\nRehan Ahmed\nRight-arm Leg Spin Bowler\n\t\nSonny Baker\nRight-arm Fast Bowler"
+    "lineup": "Liam Dawson\nRight-Handed Batsman \u00c3\u0083\u00c2\u00a2\u00c3\u0082\u00c2\u0080\u00c3\u0082\u00c2\u00a2 Left-arm Off Spin Bowler\n\t\nAdil Rashid\nRight-arm Leg Spin Bowler\n\t\nJos Buttler\n\t(Wk)\nRight-Handed Batsman\n\t\nJofra Archer\nRight-arm Fast Bowler\n\t\nLuke Wood\nLeft-arm Fast Medium Bowler\n\t\nSaqib Mahmood\nRight-arm Fast Medium Bowler\n\t\nSam Curran\nLeft-Handed Batsman \u00c3\u0083\u00c2\u00a2\u00c3\u0082\u00c2\u0080\u00c3\u0082\u00c2\u00a2 Left-arm Medium Fast Bowler\n\t\nPhil Salt\n\t(Wk)\nRight-Handed Batsman\n\t\nJosh Tongue\nRight-arm Fast Medium Bowler\n\t\nHarry Brook\n\t(C)\nRight-Handed Batsman\n\t\nTom Banton\nRight-Handed Batsman\n\t\nWill Jacks\nRight-Handed Batsman \u00c3\u0083\u00c2\u00a2\u00c3\u0082\u00c2\u0080\u00c3\u0082\u00c2\u00a2 Right-arm Off Spin Bowler\n\t\nJordan Cox\n\t(Wk)\nRight-Handed Batsman\n\t\nJames Coles\nRight-Handed Batsman \u00c3\u0083\u00c2\u00a2\u00c3\u0082\u00c2\u0080\u00c3\u0082\u00c2\u00a2 Left-arm Off Spin Bowler\n\t\nJacob Bethell\nLeft-Handed Batsman\n\t\nRehan Ahmed\nRight-arm Leg Spin Bowler\n\t\nSonny Baker\nRight-arm Fast Bowler"
   },
   "info_sources": [
     {
@@ -43,10 +43,6 @@
     {
       "name": "Link 5",
       "url": "https://ytvs-frame.pages.dev/frame?ref=https://ytvs-render.pages.dev/shaka?ref=fifa5"
-    },
-    {
-      "name": "Link 6",
-      "url": "https://ytvs-frame.pages.dev/frame?ref=https://ytvs-render.pages.dev/shaka?ref=fifa6"
     }
   ]
 }
