@@ -23,7 +23,7 @@
   },
   "team1": {
     "name": "India",
-    "lineup": "India\u2019s squad for Tests against Sri Lanka: Shubman Gill [C], KL Rahul [VC], Yashasvi Jaiswal, Rishabh Pant [WK], Sai Sudharsan*, Dhruv Jurel [WK], Ravindra Jadeja, Kuldeep Yadav, Manav Suthar, Jasprit Bumrah*, Mohd. Siraj, Prasidh Krishna, Gurnoor Brar, Devdutt Padikkal, Saransh Jain"
+    "lineup": "India’s squad for Tests against Sri Lanka: Shubman Gill [C], KL Rahul [VC], Yashasvi Jaiswal, Rishabh Pant [WK], Sai Sudharsan*, Dhruv Jurel [WK], Ravindra Jadeja, Kuldeep Yadav, Manav Suthar, Jasprit Bumrah*, Mohd. Siraj, Prasidh Krishna, Gurnoor Brar, Devdutt Padikkal, Saransh Jain"
   },
   "team2": {
     "name": "Sri Lanka",
@@ -33,6 +33,42 @@
     {
       "name": "Link 1",
       "url": "https://ytvs-frame.pages.dev/frame?ref=https://ytvs-render.pages.dev/shaka?ref=ind1"
+    },
+    {
+      "name": "Link 2",
+      "url": "https://ytvs-frame.pages.dev/frame?ref=https://ytvs-render.pages.dev/shaka?ref=ind2"
+    },
+    {
+      "name": "Link 3",
+      "url": "https://ytvs-frame.pages.dev/frame?ref=https://ytvs-render.pages.dev/shaka?ref=ind3"
+    },
+    {
+      "name": "Link 4",
+      "url": "https://ytvs-frame.pages.dev/frame?ref=https://ytvs-render.pages.dev/shaka?ref=ind4"
+    },
+    {
+      "name": "Link 5",
+      "url": "https://ytvs-frame.pages.dev/frame?ref=https://ytvs-render.pages.dev/shaka?ref=ind5"
+    },
+    {
+      "name": "Link 6",
+      "url": "https://ytvs-frame.pages.dev/frame?ref=https://ytvs-render.pages.dev/shaka?ref=ind6"
+    },
+    {
+      "name": "Link 7",
+      "url": "https://ytvs-frame.pages.dev/frame?ref=https://ytvs-render.pages.dev/shaka?ref=ind7"
+    },
+    {
+      "name": "Link 8",
+      "url": "https://ytvs-frame.pages.dev/frame?ref=https://ytvs-render.pages.dev/shaka?ref=ind8"
+    },
+    {
+      "name": "Link 9",
+      "url": "https://ytvs-frame.pages.dev/frame?ref=https://ytvs-render.pages.dev/shaka?ref=ind9"
+    },
+    {
+      "name": "Link 10",
+      "url": "https://ytvs-frame.pages.dev/frame?ref=https://ytvs-render.pages.dev/shaka?ref=ind10"
     }
   ]
 }
