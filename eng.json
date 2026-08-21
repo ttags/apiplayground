@@ -1,7 +1,7 @@
 {
   "match": {
     "title": "England vs Pakistan",
-    "date": "19 AUG",
+    "date": "21 AUG",
     "time": "03:45 PM NST",
     "end_time": "11:45 PM NST",
     "stadium": "Headingley Carnegie",
@@ -17,8 +17,8 @@
     },
     "h2h": "England and Pakistan have a rich cricket rivalry across all international formats, with England holding the upper hand in Test and T20 I matches, while ODI records remain tightly contested.\nTest Matches Total Matches: 92 England Wins: 30 Pakistan Wins: 23 Draws: 39",
     "win_probability": {
-      "home": 50,
-      "away": 50
+      "home": 40.8,
+      "away": 59.2
     }
   },
   "team1": {
