@@ -1,9 +1,9 @@
 {
   "match": {
     "title": "Bangladesh vs Australia",
-    "date": "13 AUG",
-    "time": "06:15 AM NST",
-    "end_time": "02:15 PM NST",
+    "date": "22 AUG",
+    "time": "05:45 AM NST",
+    "end_time": "01:45 PM NST",
     "stadium": "Bangladesh's Stadium",
     "league": "Test",
     "round": "Test Series",
@@ -17,8 +17,8 @@
     },
     "h2h": "Australia dominates the overall head-to-head cricket record against Bangladesh with 32 wins across 41 matches in all major formats. While Australia has historically held upper-hand control over the matchup, Bangladesh 9 Has managed hard-fought home series victories, particularly in the shorter formats of the game. Below is the comprehensive head-to-head breakdown for men's international cricket as of August 2026.\ud83d\udd0d Key Format Takeaways One Day Internationals (ODIs): Australia leads 20\u20133. Bangladesh's first historic win came in Cardiff in 2005. Most recently, Bangladesh Pulled off back-to-back home victories against a touring Australian side in June 2026, winning the 3-match series 2\u20131. Twenty20 Internationals (T20 Is): Australia holds a 7\u20134 edge. Bangladesh notoriously secured a historic 4\u20131 home series victory over Australia in 2021. However, Australia struck back by sweeping their latest 3-match bilateral series 3\u20130 in mid-2026. Test Matches: Australia is dominant at 5\u20131. Bangladesh claimed their sole historic Test win against Australia by 20 runs in Dhaka back in August 2017.",
     "win_probability": {
-      "home": 10.3,
-      "away": 89.7
+      "home": 44.2,
+      "away": 55.8
     }
   },
   "team1": {
